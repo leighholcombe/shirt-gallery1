@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Star Wars",
+    "value": "starwars"
+  },
+  {
+    "name": "National Parks",
+    "value": "nationalparks"
+  },
+  {
+    "name": "Brands",
+    "value": "brands"
+  },
+  {
+    "name": "Pacific Northwest",
+    "value": "pacificnorthwest"
+  },
+  {
+    "name": "Native American and First Nations",
+    "value": "nativeamerican"
+  },
+  {
+    "name": "Oregon",
+    "value": "oregon"
+  },
+  {
+    "name": "Washington",
+    "value": "washington"
+  },
+  {
+    "name": "Idaho",
+    "value": "idaho"
+  },
+  {
+    "name": "California",
+    "value": "california"
+  },
+  {
+    "name": "Nevada",
+    "value": "nevada"
+  },
+  {
+    "name": "Switzerland",
+    "value": "switzerland"
+  },
+  {
+    "name": "France",
+    "value": "france"
+  },
+  {
+    "name": "Norway",
+    "value": "norway"
+  },
+  {
+    "name": "Colorado",
+    "value": "colorado"
+  },
+  {
+    "name": "Utah",
+    "value": "utah"
+  },
+  {
+    "name": "Parody",
+    "value": "parody"
+  },
+  {
+    "name": "Independent Artists",
+    "value": "indyartists"
+  },
+  {
+    "name": "Maine",
+    "value": "maine"
+  },
+  {
+    "name": "New York",
+    "value": "newyork"
+  },
+  {
+    "name": "Stores",
+    "value": "stores"
+  },
+  {
+    "name": "Canada",
+    "value": "canada"
+  },
+  {
+    "name": "Alaska",
+    "value": "alaska"
+  },
+  {
+    "name": "Guitar",
+    "value": "guitar"
+  },
+  {
+    "name": "Bands",
+    "value": "bands"
+  },
+  {
+    "name": "Pennsylvania",
+    "value": "pennsylvania"
+  },
+  {
+    "name": "Music",
+    "value": "music"
+  }
+]

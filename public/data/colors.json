@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Black",
+    "value": "black",
+    "class": "black"
+  },
+  {
+    "name": "Green",
+    "value": "green",
+    "class": "green-700"
+  },
+  {
+    "name": "Red",
+    "value": "red",
+    "class": "red-700"
+  },
+  {
+    "name": "Blue",
+    "value": "blue",
+    "class": "blue-700"
+  },
+  {
+    "name": "Yellow",
+    "value": "yellow",
+    "class": "yellow-400"
+  },
+  {
+    "name": "Orange",
+    "value": "orange",
+    "class": "amber-700"
+  },
+  {
+    "name": "White",
+    "value": "white",
+    "class": "white"
+  },
+  {
+    "name": "Purple",
+    "value": "purple",
+    "class": "purple-700"
+  },
+  {
+    "name": "Gray",
+    "value": "gray",
+    "class": "zinc-700"
+  }
+]

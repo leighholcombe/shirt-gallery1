@@ -1,0 +1,8 @@
+[
+  {
+    "image": "path/to/image",
+    "description": "some stuff about this shirt",
+    "color": "black",
+    "tag_array": ["StarWars", "parody"]
+  }
+]
