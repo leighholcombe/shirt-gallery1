@@ -3,6 +3,7 @@ import { useSearchParams } from 'next/navigation';
 import Image from "next/image";
 import Swatches from "./components/swatches";
 import colors from '@/public/data/colors.json';
+import {Suspense} from "react";
 
 export function ParamTest() {
   const searchParams = useSearchParams();
@@ -26,7 +27,9 @@ export default function Home() {
     <div className="flex">
      <main>
       <section id="test">
-        <ParamTest></ParamTest>
+        <Suspense>
+          <ParamTest></ParamTest>
+        </Suspense>
       </section>
       <section id="browse"></section>
       <section id="chips"></section>
