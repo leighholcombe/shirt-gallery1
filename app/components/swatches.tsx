@@ -14,7 +14,7 @@ export default function Swatches() {
       <div className="flex gap-3">
         {colors.map((color) => {
           return (
-            <a href={`/?color=${color.value}`} key={color.value} className={`bg-${color.class} block w-6 h-6 border custom-swatch`} aria-label={`color ${color.name}`}>
+            <a href={`/?color=${color.value}`} key={color.value} className={`bg-${color.class} block w-8 h-8 border custom-swatch`} aria-label={`color ${color.name}`}>
               &nbsp;
             </a>
           )
