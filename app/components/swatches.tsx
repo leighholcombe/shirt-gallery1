@@ -1,3 +1,4 @@
+'use client';
 import colors from '@/public/data/colors.json';
 import type { Selected } from '@/app/lib/definitions';
 // import type { ColorSwatch } from '@/app/lib/definitions';

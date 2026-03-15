@@ -1,16 +1,11 @@
 'use client'; // Marks the component as a Client Component
-import { useSearchParams } from 'next/navigation';
 import Image from "next/image";
 import Swatches from "./components/swatches";
 import Chips from "./components/chips";
 import ParamTest from "./components/paramtest";
-import { connection } from 'next/server';
 
-
-export default async function Home() {
-  await connection()
-
-  const searchParams = useSearchParams();
+export default function Home() {
+  const searchParams = new URLSearchParams(window.location.search);
   const colorParam = searchParams.get('color');
   const tagParam = searchParams.get('cat');
 

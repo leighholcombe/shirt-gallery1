@@ -1,3 +1,4 @@
+'use client';
 import tags from '@/public/data/tags.json';
 import type { Selected } from '@/app/lib/definitions';
 
