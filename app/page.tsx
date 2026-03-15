@@ -4,14 +4,12 @@ import Image from "next/image";
 import Swatches from "./components/swatches";
 import Chips from "./components/chips";
 import ParamTest from "./components/paramtest";
-import colors from '@/public/data/colors.json';
-import { Suspense } from "react";
-import tags from '@/public/data/tags.json';
-
-let selectedItem: any;
+import { connection } from 'next/server';
 
 
-export default function Home() {
+export default async function Home() {
+  await connection()
+
   const searchParams = useSearchParams();
   const colorParam = searchParams.get('color');
   const tagParam = searchParams.get('cat');
