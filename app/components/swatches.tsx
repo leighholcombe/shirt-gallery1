@@ -1,16 +1,17 @@
 'use client';
 import colors from '@/public/data/colors.json';
-import type { Selected } from '@/app/lib/definitions';
-// import type { ColorSwatch } from '@/app/lib/definitions';
+import { useSearchParams } from 'next/navigation';
 
 
-export default function Swatches({selected}:Selected) {
+export default function Swatches() {
   // Check if colors is an array before mapping to avoid errors
   if (!Array.isArray(colors)) {
     return <p>No colors available.</p>;
   }
   let swatchClasses;
   let swatch_selected = false;
+  const searchParams = useSearchParams();
+  const colorParam = searchParams.get('color');
 
   return (
     <div>
@@ -18,7 +19,7 @@ export default function Swatches({selected}:Selected) {
       <div className="flex gap-3">
         {colors.map((color) => {
           swatchClasses = "block w-8 h-8 custom-swatch hover:mt-1 bg-" + color.class;
-          if(color.value == selected) {
+          if(color.value == colorParam) {
             swatch_selected = true;
             swatchClasses += " border-3";
           } else {

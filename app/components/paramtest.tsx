@@ -1,10 +1,12 @@
 'use client';
 import tags from '@/public/data/tags.json';
 import colors from '@/public/data/colors.json';
-import type { ParamProps } from '@/app/lib/definitions';
+import { useSearchParams } from 'next/navigation';
 
-export default function ParamTest({colorParam, tagParam}: ParamProps) {
-  console.log(colorParam, tagParam);
+export default function ParamTest() {
+  const searchParams = useSearchParams();
+  const colorParam = searchParams.get('color');
+  const tagParam = searchParams.get('cat');
   let message;
   if (colorParam !== null) {
     colors.forEach((color) => {
