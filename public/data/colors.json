@@ -7,27 +7,27 @@
   {
     "name": "Green",
     "value": "green",
-    "class": "green-700"
+    "class": "green-500"
   },
   {
     "name": "Red",
     "value": "red",
-    "class": "red-700"
+    "class": "red-500"
   },
   {
     "name": "Blue",
     "value": "blue",
-    "class": "blue-700"
+    "class": "blue-500"
   },
   {
     "name": "Yellow",
     "value": "yellow",
-    "class": "yellow-400"
+    "class": "yellow-500"
   },
   {
     "name": "Orange",
     "value": "orange",
-    "class": "amber-700"
+    "class": "orange-500"
   },
   {
     "name": "White",
@@ -37,11 +37,11 @@
   {
     "name": "Purple",
     "value": "purple",
-    "class": "purple-700"
+    "class": "purple-500"
   },
   {
     "name": "Gray",
     "value": "gray",
-    "class": "zinc-700"
+    "class": "zinc-500"
   }
 ]

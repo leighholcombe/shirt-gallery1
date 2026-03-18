@@ -20,7 +20,7 @@ export default function Chips() {
           chipClasses = "text-neutral-800 rounded-full block py-2 px-4 whitespace-nowrap hover:bg-sky-400";
           if(chip.value == tagParam) {
             chip_selected = true;
-            chipClasses += " bg-indigo-300";
+            chipClasses += " bg-sky-300";
           } else {
             chipClasses += " bg-sky-200";
           }

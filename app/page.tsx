@@ -8,7 +8,7 @@ import { Suspense } from "react";
 export default function Home() {
 
   return (
-    <div className="flex">
+    <div className="flex px-4">
       <main>
         <section id="test" className="my-6">
           <Suspense>

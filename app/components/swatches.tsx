@@ -16,14 +16,12 @@ export default function Swatches() {
   return (
     <div>
       <h2>Filter by color:</h2>
-      <div className="flex gap-3">
+      <div className="flex gap-3 items-center h-14">
         {colors.map((color) => {
-          swatchClasses = "block w-8 h-8 custom-swatch hover:mt-1 bg-" + color.class;
+          swatchClasses = "block w-8 h-8 custom-swatch hover:scale-125 transition-transform border bg-" + color.class;
           if(color.value == colorParam) {
             swatch_selected = true;
-            swatchClasses += " border-3";
-          } else {
-            swatchClasses += " border";
+            swatchClasses += " ring-3 ring-sky-300";
           }
           return (
             <a href={`/?color=${color.value}`} key={color.value} className={swatchClasses} aria-label={`color ${color.name}`}>
