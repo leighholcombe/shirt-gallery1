@@ -9,6 +9,12 @@ export interface ParamProps {
   tagParam: string | null;
 }
 
-export interface Selected {
-  selected: string | null;
+export interface TagProps {
+  tagParam: string;
+  selected: boolean;
+}
+
+export interface ColorProps {
+  colorParam: string;
+  selected: boolean;
 }

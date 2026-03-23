@@ -102,5 +102,25 @@
   {
     "name": "Music",
     "value": "music"
+  },
+  {
+    "name": "Massachusetts",
+    "value": "massachusetts"
+  },
+  {
+    "name": "Video Games",
+    "value": "videogames"
+  },
+  {
+    "name": "Geography",
+    "value": "geography"
+  },
+  {
+    "name": "Wyoming",
+    "value": "wyoming"
+  },
+  {
+    "name": "Skateboarding",
+    "value": "skateboarding"
   }
 ]

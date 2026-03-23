@@ -22,7 +22,7 @@
   {
     "name": "Yellow",
     "value": "yellow",
-    "class": "yellow-500"
+    "class": "yellow-400"
   },
   {
     "name": "Orange",
@@ -42,6 +42,11 @@
   {
     "name": "Gray",
     "value": "gray",
-    "class": "zinc-500"
+    "class": "zinc-400"
+  },
+  {
+    "name": "Dark Blue",
+    "value": "darkblue",
+    "class": "blue-800"
   }
 ]
