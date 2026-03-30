@@ -18,3 +18,13 @@ export interface ColorProps {
   colorParam: string;
   selected: boolean;
 }
+
+export interface Shirt {
+  id: number;
+  image: string;
+  description: string;
+  color: string;
+  sleeves: string;
+  tag_array: Array<string>;
+  archived: boolean;
+}

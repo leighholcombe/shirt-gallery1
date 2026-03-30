@@ -1,6 +1,7 @@
 [
   {
-    "image": "@/public/images/shirt-bostonbasic.jpg",
+    "id": 100001,
+    "image": "/images/shirt-bostonbasic.jpg",
     "description": "Purchased at Logan Airport in Boston because I didn't have any Boston souvenirs from the trip.",
     "color": "darkblue",
     "sleeves": "short",
@@ -8,15 +9,17 @@
     "archived": true
   },
   {
-    "image": "@/public/images/shirt-chickenfajita.jpg",
+    "id": 100002,
+    "image": "/images/shirt-chickenfajita.jpg",
     "description": "Custom design by Tracy Sayre, based on an office in-joke. One of a pair.",
     "color": "gray",
     "sleeves": "short",
-    "tag_array": ["parody"],
+    "tag_array": ["parody", "indyartists"],
     "archived": true
   },
   {
-    "image": "@/public/images/shirt-cystalfox.jpg",
+    "id": 100003,
+    "image": "/images/shirt-crystalfox.jpg",
     "description": "The crystal fox, a science fiction animal introduced in Star Wars: The Last Jedi.",
     "color": "darkblue",
     "sleeves": "short",
@@ -24,7 +27,8 @@
     "archived": true
   },
   {
-    "image": "@/public/images/shirt-dricrossovertour2014.jpg",
+    "id": 100004,
+    "image": "/images/shirt-dricrossovertour2014.jpg",
     "description": "Purchased at DRI concert at Fitzgerald's in Houston, during their 2014 tour. Album art from Crossover on the front.",
     "color": "black",
     "sleeves": "short",
@@ -32,7 +36,8 @@
     "archived": true
   },
   {
-    "image": "@/public/images/shirt-montblanctin.jpg",
+    "id": 100005,
+    "image": "/images/shirt-montblanctin.jpg",
     "description": "Triangular Irregular Network (TIN) map of Mont Blanc in France. Purchased in Chamonix.",
     "color": "black",
     "sleeves": "short",
@@ -40,7 +45,8 @@
     "archived": true
   },
   {
-    "image": "@/public/images/shirt-smanatas.jpg",
+    "id": 100006,
+    "image": "/images/shirt-smanatas.jpg",
     "description": "1980s skateboard graphic from the original Natas Kaupas deck from Santa Monica Airlines.",
     "color": "white",
     "sleeves": "short",
@@ -48,7 +54,8 @@
     "archived": true
   },
   {
-    "image": "@/public/images/shirt-supermario.jpg",
+    "id": 100007,
+    "image": "/images/shirt-supermario.jpg",
     "description": "Mario and Yoshi from the 1991 Super Nintendo game Super Mario World.",
     "color": "darkblue",
     "sleeves": "short",
@@ -56,7 +63,8 @@
     "archived": true
   },
   {
-    "image": "@/public/images/shirt-wyoming307.jpg",
+    "id": 100008,
+    "image": "/images/shirt-wyoming307.jpg",
     "description": "307 is the telephone area code for the entire state of Wyoming. Purchased at Devil's Tower National Monument.",
     "color": "black",
     "sleeves": "short",
