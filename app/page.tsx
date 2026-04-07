@@ -6,30 +6,30 @@ import Deck from "./components/deck";
 import { Suspense } from "react";
 import Link from 'next/link';
 
-export default function Home() {
+export default function Home(pageProps:any) {
 
   return (
     <div className="flex px-8">
       <main className="pb-12">
         <section id="gallery" className="my-6">
           <Suspense>
-            <Deck></Deck>
+            <Deck {...pageProps}></Deck>
           </Suspense>
         </section>
         <section id="test" className="my-6">
           <Suspense>
-            <ParamTest></ParamTest>
+            <ParamTest {...pageProps}></ParamTest>
           </Suspense>
         </section>
         <section id="browse" className="my-6"></section>
         <section id="chips" className="my-6">
           <Suspense>
-            <Chips></Chips>
+            <Chips {...pageProps}></Chips>
           </Suspense>
         </section>
         <section id="swatches" className="my-6">
           <Suspense>
-            <Swatches></Swatches>
+            <Swatches {...pageProps}></Swatches>
           </Suspense>
         </section>
         <section id="reset" className="my-6">

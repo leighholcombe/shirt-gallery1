@@ -1,32 +1,34 @@
 import tags from '@/public/data/tags.json';
-import { useSearchParams } from 'next/navigation';
 import colors from '@/public/data/colors.json';
 import Card from './card';
 import shirts from '@/public/data/shirts.json';
-import { CachedRouteKind } from 'next/dist/server/response-cache';
 import { Shirt } from '../lib/definitions';
+import { isArray } from 'util';
 
-export default function Deck() {
+export default async function Deck(props: PageProps<any>) {
   // Check if colors is an array before mapping to avoid errors
   if (!Array.isArray(shirts)) {
     return <p>No products available.</p>;
   }
-  const searchParams = useSearchParams();
-  const colorParam = searchParams.get('color');
-  const tagParam = searchParams.get('cat');
+  const searchParams = await props.searchParams;
+  let color = searchParams.color;
+  let cat = searchParams.cat;
   let productCounter = 0;
   let resultArray: Array<Shirt> = [];
   let errorMessage = "";
   shirts.forEach((shirt) => {
-    if(tagParam) {
-      if(shirt.tag_array.includes(tagParam)) {
+    if(cat) {
+      if(Array.isArray(cat)) {
+        cat = cat[0];
+      }
+      if(shirt.tag_array.includes(cat)) {
         resultArray.push(shirt);
       }
       if(resultArray.length == 0) {
         errorMessage = "No results found for the selected category";
       }
-    } else if(colorParam) {
-      if(shirt.color == colorParam) {
+    } else if(color) {
+      if(shirt.color == color) {
         resultArray.push(shirt);
       }
       if(resultArray.length == 0) {

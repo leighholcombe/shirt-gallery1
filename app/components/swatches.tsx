@@ -1,33 +1,33 @@
 import colors from '@/public/data/colors.json';
-import { useSearchParams } from 'next/navigation';
 import Color from './colors';
+import { ParamProps } from '../lib/definitions';
 
-export default function Swatches() {
+export default async function Swatches(props: PageProps<any>) {
   // Check if colors is an array before mapping to avoid errors
   if (!Array.isArray(colors)) {
     return <p>No colors available.</p>;
   }
-  const searchParams = useSearchParams();
-  const colorParam = searchParams.get('color');
+  const searchParams = await props.searchParams;
+  const color = searchParams.color;
 
   return (
     <div>
       <h2>Filter by color:</h2>
       <div className="flex gap-3 items-center h-14">
-        {colors.map((color) => {
-          if(color.value == colorParam) {
+        {colors.map((swatch) => {
+          if(swatch.value == color) {
             return (
               <Color
-                key={color.value}
-                colorParam={color.value}
+                key={swatch.value}
+                colorParam={swatch.value}
                 selected={true}
               />
             )
           } else {
             return (
               <Color
-                key={color.value}
-                colorParam={color.value}
+                key={swatch.value}
+                colorParam={swatch.value}
                 selected={false}
               />
             )

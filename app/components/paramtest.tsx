@@ -1,21 +1,21 @@
 import tags from '@/public/data/tags.json';
 import colors from '@/public/data/colors.json';
-import { useSearchParams } from 'next/navigation';
 
-export default function ParamTest() {
-  const searchParams = useSearchParams();
-  const colorParam = searchParams.get('color');
-  const tagParam = searchParams.get('cat');
+export default async function ParamTest(props: PageProps<any>) {
+  const searchParams = await props.searchParams;
+  const color = searchParams.color;
+  const cat = searchParams.cat;
+
   let message;
-  if (colorParam !== null) {
-    colors.forEach((color) => {
-      if(color.value == colorParam) {
-        message = "Filter is set to color " + color.name;
+  if (color !== null) {
+    colors.forEach((swatch) => {
+      if(swatch.value == color) {
+        message = "Filter is set to color " + swatch.name;
       }
     });
-  } else if (tagParam !== null) {
+  } else if (cat !== null) {
     tags.forEach((tag) => {
-      if(tag.value == tagParam) {
+      if(tag.value == cat) {
         message = "Filter is set to tag " + tag.name;
       }
     });

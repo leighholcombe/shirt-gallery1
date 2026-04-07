@@ -5,8 +5,10 @@ export type ColorSwatch = {
 };
 
 export interface ParamProps {
-  colorParam: string | null;
-  tagParam: string | null;
+  searchParams: {
+    color: string | null;
+    cat: string | null;
+  }
 }
 
 export interface TagProps {

@@ -48,5 +48,20 @@
     "name": "Dark Blue",
     "value": "darkblue",
     "class": "blue-800"
+  },
+  {
+    "name": "Tan",
+    "value": "tan",
+    "class": "orange-200"
+  },
+  {
+    "name": "Teal",
+    "value": "teal",
+    "class": "teal-600"
+  },
+  {
+    "name": "Pink",
+    "value": "pink",
+    "class": "pink-400"
   }
 ]
