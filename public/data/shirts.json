@@ -23,7 +23,7 @@
     "description": "The crystal fox, a science fiction animal introduced in Star Wars: The Last Jedi.",
     "color": "darkblue",
     "sleeves": "short",
-    "tag_array": ["starwars"],
+    "tag_array": ["starwars", "animals"],
     "archived": true
   },
   {
@@ -69,6 +69,285 @@
     "color": "black",
     "sleeves": "short",
     "tag_array": ["wyoming"],
+    "archived": true
+  },
+  {
+    "id": 100009,
+    "image": "/images/shirt-adoptaporg.jpg",
+    "description": "Porgs are cute semi-intelligent animals introduced in Star Wars: The Last Jedi.",
+    "color": "darkblue",
+    "sleeves": "short",
+    "tag_array": ["starwars", "animals"],
+    "archived": true
+  },
+  {
+    "id": 100010,
+    "image": "/images/shirt-alesundflagnorge.jpg",
+    "description": "This shirt from the city of Alesund has a Norwegian flag patch on it.",
+    "color": "teal",
+    "sleeves": "short",
+    "tag_array": ["norway"],
+    "archived": true
+  },
+  {
+    "id": 100011,
+    "image": "/images/shirt-aquaholic.jpg",
+    "description": "This shirt was already quite faded when I bought it brand new at Buc-ee's. Features an octopus and the word 'Aquaholic.'",
+    "color": "gray",
+    "sleeves": "short",
+    "tag_array": ["brands", "animals", "texas"],
+    "archived": true
+  },
+  {
+    "id": 100012,
+    "image": "/images/shirt-bigbendroadrunner.jpg",
+    "description": "Big Bend National Park, and its iconic animal, the roadrunner.",
+    "color": "blue",
+    "sleeves": "short",
+    "tag_array": ["texas", "nationalparks"],
+    "archived": true
+  },
+  {
+    "id": 100013,
+    "image": "/images/shirt-blushingjapan.jpg",
+    "description": "Japanese tour shirt for the Austin shoegaze band Blushing. Kinda rare in the US.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": true
+  },
+  {
+    "id": 100014,
+    "image": "/images/shirt-blushingoriginal.jpg",
+    "description": "The original shirt design for the Austin shoegaze band Blushing.",
+    "color": "white",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": true
+  },
+  {
+    "id": 100015,
+    "image": "/images/shirt-c2backinblue.jpg",
+    "description": "Schwag for C2, the in-house design agency at Schwab. From an event I didn't attend in 2022.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["brands"],
+    "archived": true
+  },
+  {
+    "id": 100016,
+    "image": "/images/shirt-carlsbadcaverns.jpg",
+    "description": "Bought this when I visted Carlsbad Caverns in 2016.",
+    "color": "blue",
+    "sleeves": "short",
+    "tag_array": ["newmexico", "nationalparks"],
+    "archived": true
+  },
+  {
+    "id": 100017,
+    "image": "/images/shirt-copenhagenflagdanmark.jpg",
+    "description": "A simple design from Copenhagen, featuring the Danish flag.",
+    "color": "darkblue",
+    "sleeves": "short",
+    "tag_array": ["denmark"],
+    "archived": true
+  },
+  {
+    "id": 100018,
+    "image": "/images/shirt-driblue.jpg",
+    "description": "My friend John bought this for me at a DRI show in Denver. Has a logo on the right sleeve.",
+    "color": "blue",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": true
+  },
+  {
+    "id": 100019,
+    "image": "/images/shirt-glaciermontana.jpg",
+    "description": "Simple design from Glacier National Park in Montana.",
+    "color": "darkblue",
+    "sleeves": "short",
+    "tag_array": ["nationalparks", "montana"],
+    "archived": true
+  },
+  {
+    "id": 100020,
+    "image": "/images/shirt-lofotenimage.jpg",
+    "description": "Souvenir from the Lofoten National Park store in Ramberg, Norway.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["norway"],
+    "archived": true
+  },
+  {
+    "id": 100021,
+    "image": "/images/shirt-loyalseas.jpg",
+    "description": "Logo for The Loyal Seas, a side project from Tanya Donelly.",
+    "color": "teal",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": true
+  },
+  {
+    "id": 100022,
+    "image": "/images/shirt-mammothdiamond.jpg",
+    "description": "Bought at Mammoth Cave National Park, when I visited with my sister Terry during the pandemic.",
+    "color": "gray",
+    "sleeves": "short",
+    "tag_array": ["nationalparks", "kentucky"],
+    "archived": true
+  },
+  {
+    "id": 100023,
+    "image": "/images/shirt-maytheforest.jpg",
+    "description": "This was a popular design at the National Monuments of Arizona many years ago. My dad has the same shirt.",
+    "color": "brown",
+    "sleeves": "short",
+    "tag_array": ["parody", "starwars"],
+    "archived": true
+  },
+  {
+    "id": 100024,
+    "image": "/images/shirt-mlbvader.jpg",
+    "description": "One of my first Star Wars parody shirts. A lot of people see the MLB logo and then do a double take.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["starwars", "parody"],
+    "archived": true
+  },
+  {
+    "id": 100025,
+    "image": "/images/shirt-nasadeathstar.jpg",
+    "description": "I don't actually believe that NASA is part of the evil empire, but this shirt was too fun to pass up.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["starwars", "parody"],
+    "archived": true
+  },
+  {
+    "id": 100026,
+    "image": "/images/shirt-norwayflagnorge.jpg",
+    "description": "A simple design from Norway, featuring the Norwegian flag.",
+    "color": "white",
+    "sleeves": "short",
+    "tag_array": ["norway"],
+    "archived": true
+  },
+  {
+    "id": 100027,
+    "image": "/images/shirt-patientlywaiting.jpg",
+    "description": "Humorous shirt I found at a skateboard shop in Oslo, Norway.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["skateboarding", "norway", "indyartists"],
+    "archived": true
+  },
+  {
+    "id": 100028,
+    "image": "/images/shirt-redwoodtrailer.jpg",
+    "description": "I knew it was too small, but I loved the design and wanted to make sure I got something from Redwoods.",
+    "color": "green",
+    "sleeves": "short",
+    "tag_array": ["nationalparks", "california", "pacificnorthwest"],
+    "archived": true
+  },
+  {
+    "id": 100029,
+    "image": "/images/shirt-slayernewwave.jpg",
+    "description": "Slayer, but it looks like a Trapper Keeper from the 80s.",
+    "color": "pink",
+    "sleeves": "short",
+    "tag_array": ["music", "bands", "parody"],
+    "archived": true
+  },
+  {
+    "id": 100030,
+    "image": "/images/shirt-slayersalsa.jpg",
+    "description": "Salsa, but in the style of Slayer's iconic logo.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["indyartists", "parody", "texas"],
+    "archived": true
+  },
+  {
+    "id": 100031,
+    "image": "/images/shirt-sleighwhat.jpg",
+    "description": "I bought this specifically for a Fashion Thursday event.",
+    "color": "white",
+    "sleeves": "short",
+    "tag_array": ["holidays"],
+    "archived": true
+  },
+  {
+    "id": 100032,
+    "image": "/images/shirt-smokeybear.jpg",
+    "description": "A friend bought this for me.",
+    "color": "green",
+    "sleeves": "short",
+    "tag_array": ["brands"],
+    "archived": true
+  },
+  {
+    "id": 100033,
+    "image": "/images/shirt-sonicyouthgooarabic.jpg",
+    "description": "The cover from Sonic Youth's 1990 album Goo, but in Arabic.",
+    "color": "gray",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": true
+  },
+  {
+    "id": 100034,
+    "image": "/images/shirt-subpopgold.jpg",
+    "description": "From the Sub Pop label store in Seatac airport.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["music", "pacificnorthwest"],
+    "archived": true
+  },
+  {
+    "id": 100035,
+    "image": "/images/shirt-theswell.jpg",
+    "description": "The Swell was an email newsletter from Hi-Tide Recordings, a surf label from New Jersey.",
+    "color": "tan",
+    "sleeves": "short",
+    "tag_array": ["brands"],
+    "archived": true
+  },
+  {
+    "id": 100036,
+    "image": "/images/shirt-threerats.jpg",
+    "description": "Three rats. For no reason at all.",
+    "color": "gray",
+    "sleeves": "short",
+    "tag_array": ["indyartists", "animals"],
+    "archived": true
+  },
+  {
+    "id": 100037,
+    "image": "/images/shirt-vikingraven.jpg",
+    "description": "Interesting design, but it faded after one wash.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["indyartists"],
+    "archived": true
+  },
+  {
+    "id": 100038,
+    "image": "/images/shirt-warriordash.jpg",
+    "description": "Souvenir from the Warrior Dash, an obstacle course race I ran in 2017.",
+    "color": "gray",
+    "sleeves": "short",
+    "tag_array": ["events"],
+    "archived": true
+  },
+  {
+    "id": 100039,
+    "image": "/images/shirt-yinyangcats.jpg",
+    "description": "I get a lot of compliments from cat lovers when I wear this shirt.",
+    "color": "purple",
+    "sleeves": "short",
+    "tag_array": ["indyartists", "animals"],
     "archived": true
   }
 ]

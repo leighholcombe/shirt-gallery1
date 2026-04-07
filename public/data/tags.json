@@ -122,5 +122,37 @@
   {
     "name": "Skateboarding",
     "value": "skateboarding"
+  },
+  {
+    "name": "Animals",
+    "value": "animals"
+  },
+  {
+    "name": "Events",
+    "value": "events"
+  },
+  {
+    "name": "Holidays",
+    "value": "holidays"
+  },
+  {
+    "name": "Kentucky",
+    "value": "kentucky"
+  },
+  {
+    "name": "Montana",
+    "value": "montana"
+  },
+  {
+    "name": "Denmark",
+    "value": "denmark"
+  },
+  {
+    "name": "Texas",
+    "value": "texas"
+  },
+  {
+    "name": "New Mexico",
+    "value": "newmexico"
   }
 ]
