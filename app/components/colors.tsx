@@ -1,6 +1,6 @@
-'use client';
 import colors from '@/public/data/colors.json';
 import { ColorProps } from '../lib/definitions';
+import Link from 'next/link';
 
 export default function Color({ colorParam, selected }: ColorProps) {
   let colorClasses = "block w-8 h-8 custom-swatch hover:scale-125 transition-transform border";
@@ -19,8 +19,13 @@ export default function Color({ colorParam, selected }: ColorProps) {
   })};
 
   return (
-    <a href={`/?color=${colorValue}`} key={colorParam} className={colorClasses} aria-label={`color ${colorName}`}>
+    <Link
+      href={`/?color=${colorValue}`}
+      key={colorParam}
+      className={colorClasses}
+      aria-label={`color ${colorName}`}
+    >
       &nbsp;
-    </a>
+    </Link>
   );
 }

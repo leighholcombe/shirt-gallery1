@@ -1,6 +1,3 @@
-// deck shows all cards by default
-// deck contains the logic to filter cards
-'use client';
 import tags from '@/public/data/tags.json';
 import { useSearchParams } from 'next/navigation';
 import colors from '@/public/data/colors.json';

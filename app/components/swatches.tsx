@@ -1,4 +1,3 @@
-'use client';
 import colors from '@/public/data/colors.json';
 import { useSearchParams } from 'next/navigation';
 import Color from './colors';

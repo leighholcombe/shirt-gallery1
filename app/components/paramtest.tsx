@@ -1,4 +1,3 @@
-'use client';
 import tags from '@/public/data/tags.json';
 import colors from '@/public/data/colors.json';
 import { useSearchParams } from 'next/navigation';

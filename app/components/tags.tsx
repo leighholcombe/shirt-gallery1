@@ -1,6 +1,6 @@
-'use client';
 import tags from '@/public/data/tags.json';
 import { TagProps } from '../lib/definitions';
+import Link from 'next/link';
 
 export default function Tag({ tagParam, selected }: TagProps) {
   let chipClasses = "text-neutral-800 rounded-full block py-2 px-4 whitespace-nowrap hover:bg-sky-300";
@@ -20,8 +20,12 @@ export default function Tag({ tagParam, selected }: TagProps) {
   })};
 
   return (
-    <a href={`/?cat=${tagValue}`} key={tagParam} className={chipClasses}>
+    <Link
+      href={`/?cat=${tagValue}`}
+      key={tagParam}
+      className={chipClasses}
+    >
       {tagName}
-    </a>
+    </Link>
   );
 }
