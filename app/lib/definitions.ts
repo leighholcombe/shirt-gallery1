@@ -23,6 +23,7 @@ export interface ColorProps {
 
 export interface Shirt {
   id: number;
+  title: string;
   image: string;
   description: string;
   color: string;

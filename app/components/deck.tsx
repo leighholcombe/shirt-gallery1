@@ -49,6 +49,7 @@ export default async function Deck(props: PageProps<any>) {
               <Card
                 key={shirt.id}
                 id={shirt.id}
+                title={shirt.title}
                 image={shirt.image}
                 description={shirt.description}
                 color={shirt.color}
