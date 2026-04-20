@@ -12,7 +12,7 @@ export default async function Chips(props: PageProps<any>) {
 
   return (
     <div>
-      <h2>Filter by category:</h2>
+      <h2 className="mb-2">Filter by category:</h2>
       <div className="flex gap-3 flex-wrap">
         {tags.map((chip) => {
           if(chip.value == cat) {

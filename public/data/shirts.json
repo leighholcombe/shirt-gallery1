@@ -388,5 +388,315 @@
     "sleeves": "short",
     "tag_array": ["indyartists", "animals"],
     "archived": true
+  },
+  {
+    "id": 100040,
+    "title": "Alt National Park Service",
+    "image": "/images/shirt-altnpsgreen.jpg",
+    "description": "Logo from the Alt National Park Service, a social media phenomenon from 2017.",
+    "color": "green",
+    "sleeves": "short",
+    "tag_array": ["nationalparks", "politics"],
+    "archived": true
+  },
+  {
+    "id": 100041,
+    "title": "Sedona Arizona Flag",
+    "image": "/images/shirt-arizonaflag.jpg",
+    "description": "This shirt was black when I bought it at a souvenir shop in Sedona, but it faded very quickly.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["arizona"],
+    "archived": true
+  },
+  {
+    "id": 100042,
+    "title": "AV Club",
+    "image": "/images/shirt-avclublogo.jpg",
+    "description": "The AV Club was a originally a culture section of The Onion newspaper, and became a vibrant digital community.",
+    "color": "blue",
+    "sleeves": "short",
+    "tag_array": ["brands"],
+    "archived": true
+  },
+  {
+    "id": 100043,
+    "title": "Bergen Norway",
+    "image": "/images/shirt-bergennorway.jpg",
+    "description": "The iconic waterfront buildings of Bergen, Norway.",
+    "color": "olive",
+    "sleeves": "short",
+    "tag_array": ["norway"],
+    "archived": true
+  },
+  {
+    "id": 100044,
+    "title": "Colorado Flag",
+    "image": "/images/shirt-coloradoflag.jpg",
+    "description": "Colorado state flag.",
+    "color": "blue",
+    "sleeves": "short",
+    "tag_array": ["colorado"],
+    "archived": true
+  },
+  {
+    "id": 100045,
+    "title": "Recuerdo de Ecuador",
+    "image": "/images/shirt-ecuador.jpg",
+    "description": "From the Mitad del Mundo park in Quito.",
+    "color": "green",
+    "sleeves": "short",
+    "tag_array": ["ecuador"],
+    "archived": true
+  },
+  {
+    "id": 100046,
+    "title": "Everglades Alligator",
+    "image": "/images/shirt-evergladesgator.jpg",
+    "description": "Word cloud of places in Everglades National Park.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["nationalparks", "florida", "animals"],
+    "archived": true
+  },
+  {
+    "id": 100047,
+    "title": "Millennium Falcon",
+    "image": "/images/shirt-falcongijoe.jpg",
+    "description": "Weird mashup of the Millennium Falcon from Star Wars, but it vaguely resembles the logo for GI Joe.",
+    "color": "blue",
+    "sleeves": "short",
+    "tag_array": ["starwars", "parody"],
+    "archived": true
+  },
+  {
+    "id": 100048,
+    "title": "Stormtrooper Camouflage",
+    "image": "/images/shirt-floralstormtrooper.jpg",
+    "description": "Stormtrooper helmet, but it's covered with floral patterns. This could be a parody of a yoga brand for all I know.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["starwars"],
+    "archived": true
+  },
+  {
+    "id": 100049,
+    "title": "Glacier Moose",
+    "image": "/images/shirt-glaciermoose.jpg",
+    "description": "Moose and sunset design from Glacier National Park. I actually bought this before I saw a moose at Glacier.",
+    "color": "gray",
+    "sleeves": "short",
+    "tag_array": ["montana", "nationalparks", "animals"],
+    "archived": true
+  },
+  {
+    "id": 100050,
+    "title": "Go Grand",
+    "image": "/images/shirt-gogrand.jpg",
+    "description": "Grand Canyon National Park - I wish the design from the back was on the front.",
+    "color": "blue",
+    "sleeves": "short",
+    "tag_array": ["nationalparks", "arizona"],
+    "archived": true
+  },
+  {
+    "id": 100051,
+    "title": "Rebel",
+    "image": "/images/shirt-leiarebel.jpg",
+    "description": "Reminiscent of the iconic Obama Hope poster by Shepard Fairey, but it's Princess Leia from Star Wars, and she's a rebel.",
+    "color": "purple",
+    "sleeves": "short",
+    "tag_array": ["starwars"],
+    "archived": true
+  },
+  {
+    "id": 100052,
+    "title": "Less Than Jake",
+    "image": "/images/shirt-ltjbaseball.jpg",
+    "description": "Shirt released along with the Less Than Jake album Silver Linings. With blue baseball-style sleeves.",
+    "color": "white",
+    "sleeves": "baseball",
+    "tag_array": ["music", "bands"],
+    "archived": true
+  },
+  {
+    "id": 100053,
+    "title": "Tribal Manta",
+    "image": "/images/shirt-mantadesign.jpg",
+    "description": "Northwestern Native Anerican animal design, but it's of a manta ray. From the Crazy Shirts store in Key West.",
+    "color": "blue",
+    "sleeves": "short",
+    "tag_array": ["animals", "florida", "nativeamerican"],
+    "archived": true
+  },
+  {
+    "id": 100054,
+    "title": "Metallica Logo",
+    "image": "/images/shirt-metallicalogo.jpg",
+    "description": "Metallica, brought to you by the fashion buyers at Target.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": true
+  },
+  {
+    "id": 100055,
+    "title": "Metric",
+    "image": "/images/shirt-metricgreen.jpg",
+    "description": "Emily Haines of the Canadian indie band Metric.",
+    "color": "olive",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": true
+  },
+  {
+    "id": 100056,
+    "title": "Mighty Mighty Bosstones",
+    "image": "/images/shirt-mightymighty.jpg",
+    "description": "Logo shirt from their Austin concert. You can sorta see the caulk stain that ruined it.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": true
+  },
+  {
+    "id": 100057,
+    "title": "Natchez Trace",
+    "image": "/images/shirt-natcheztrace.jpg",
+    "description": "The Natchez Trace Parkway follows the historical Natchez trail through the state of Mississippi, and it has its own National Park store in Tupelo.",
+    "color": "red",
+    "sleeves": "short",
+    "tag_array": ["nationalparks", "mississippi"],
+    "archived": true
+  },
+  {
+    "id": 100058,
+    "title": "Norge Viking",
+    "image": "/images/shirt-norgeviking.jpg",
+    "description": "This design is common in the tourist shops of Norway. My sister has the same design on a hoodie.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["norway"],
+    "archived": true
+  },
+  {
+    "id": 100059,
+    "title": "Preserve Area",
+    "image": "/images/shirt-preservearea.jpg",
+    "description": "There are not a lot of shirts with cartographic projection puns on them.",
+    "color": "darkblue",
+    "sleeves": "short",
+    "tag_array": ["geography"],
+    "archived": true
+  },
+  {
+    "id": 100060,
+    "title": "Reel Big Fish",
+    "image": "/images/shirt-reelbigfish.jpg",
+    "description": "Parody of Dr. Seuss for the ska band Reel Big Fish.",
+    "color": "green",
+    "sleeves": "short",
+    "tag_array": ["music", "bands", "parody"],
+    "archived": true
+  },
+  {
+    "id": 100061,
+    "title": "REI",
+    "image": "/images/shirt-reiblue.jpg",
+    "description": "Logo of the outdoor brand REI.",
+    "color": "teal",
+    "sleeves": "short",
+    "tag_array": ["brands"],
+    "archived": true
+  },
+  {
+    "id": 100062,
+    "title": "Ringo Death Starr",
+    "image": "/images/shirt-ringodeathstarr.jpg",
+    "description": "Swag from the Austin shoegaze/noise band Ringo Death Starr. The design resembles an effects pedal - which is ironic, because the guitarist uses mostly rack effects.",
+    "color": "pink",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": true
+  },
+  {
+    "id": 100063,
+    "title": "Return of the Jedi",
+    "image": "/images/shirt-rotjbook.jpg",
+    "description": "Cover (and back cover) of the novelization of Return of the Jedi. Unfortunately, it has a small hole in it.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["starwars"],
+    "archived": true
+  },
+  {
+    "id": 100064,
+    "title": "TACOCAT",
+    "image": "/images/shirt-tacocat.jpg",
+    "description": "Pun shirt purchased by a friend in New Mexico. We have since found that this style is sold all over the country.",
+    "color": "orange",
+    "sleeves": "short",
+    "tag_array": ["parody", "newmexico"],
+    "archived": true
+  },
+  {
+    "id": 100065,
+    "title": "Stay on Target",
+    "image": "/images/shirt-targetingcomputer.jpg",
+    "description": "The targeting computer graphics from Star Wars. There are later iterations of this shirt which actually say Stay on Target, but this one has a numerical distance.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["starwars"],
+    "archived": true
+  },
+  {
+    "id": 100066,
+    "title": "Tatooine Patagonia",
+    "image": "/images/shirt-tatooinepatagonia.jpg",
+    "description": "Star Wars parody of the outdoors brand Patagonia. Shows the signature twin suns of Tatooine, and silhouettes of common structures from the films.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["starwars", "parody", "brands"],
+    "archived": true
+  },
+  {
+    "id": 100067,
+    "title": "Thrasher Boyfriend",
+    "image": "/images/shirt-thrasherboyfriend.jpg",
+    "description": "I actually had this shirt in high school, but in white. It's an obvious parody of Roy Lichtenstein's comics panels. Occasionally, some dope will ask my if this means I have a boyfriend. Am I the girl in the drawing?",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["skateboarding", "brands", "parody"],
+    "archived": true
+  },
+  {
+    "id": 100068,
+    "title": "Tree Hugger",
+    "image": "/images/shirt-treehugger.jpg",
+    "description": "Yes, I hug trees. Graphical design from outdoors brand Prana.",
+    "color": "olive",
+    "sleeves": "short",
+    "tag_array": ["brands"],
+    "archived": true
+  },
+  {
+    "id": 100069,
+    "title": "Tusken Raiders",
+    "image": "/images/shirt-tuskens.jpg",
+    "description": "Star Wars parody of former NFL team the Oakland Raiders. Raiders are a derisive name for the Tusken people of Tatooine.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["starwars", "parody"],
+    "archived": true
+  },
+  {
+    "id": 100070,
+    "title": "Victoria, BC",
+    "image": "/images/shirt-victoriabc.jpg",
+    "description": "Victoria, British Columbia doesn't actually touch the western coast of Canada, but I'll let it slide.",
+    "color": "purple",
+    "sleeves": "short",
+    "tag_array": ["canada", "pacificnorthwest"],
+    "archived": true
   }
 ]

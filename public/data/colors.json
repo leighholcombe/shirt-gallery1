@@ -63,5 +63,10 @@
     "name": "Pink",
     "value": "pink",
     "class": "pink-400"
+  },
+  {
+    "name": "Olive",
+    "value": "olive",
+    "class": "lime-800"
   }
 ]

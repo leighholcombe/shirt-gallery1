@@ -2,18 +2,20 @@ import tags from '@/public/data/tags.json';
 import colors from '@/public/data/colors.json';
 import Card from './card';
 import shirts from '@/public/data/shirts.json';
+import { shuffle } from '../lib/utilities';
 import { Shirt } from '../lib/definitions';
-import { isArray } from 'util';
 
 export default async function Deck(props: PageProps<any>) {
   // Check if colors is an array before mapping to avoid errors
   if (!Array.isArray(shirts)) {
     return <p>No products available.</p>;
   }
+  const arrayLimit = 20;
   const searchParams = await props.searchParams;
   let color = searchParams.color;
   let cat = searchParams.cat;
   let productCounter = 0;
+  let limitedArray: Array<any> = [];
   let resultArray: Array<Shirt> = [];
   let errorMessage = "";
   shirts.forEach((shirt) => {
@@ -37,14 +39,16 @@ export default async function Deck(props: PageProps<any>) {
     } else {
       resultArray.push(shirt);
     }
+    resultArray = shuffle(resultArray);
+    limitedArray = resultArray.slice(0, arrayLimit);
   })
 
-  if(resultArray && resultArray.length > 0) {
+  if(limitedArray && limitedArray.length > 0) {
     return (
       <div>
-        <h2>Shirts in inventory</h2>
+        <h2 className="mb-2">Shirts in inventory (limit {arrayLimit})</h2>
         <div className="flex gap-3 items-center flex-row flex-wrap">
-          {resultArray.map((shirt) => {
+          {limitedArray.map((shirt) => {
             return (
               <Card
                 key={shirt.id}
