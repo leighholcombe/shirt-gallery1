@@ -6,7 +6,7 @@ import { shuffle } from '../lib/utilities';
 import { Shirt } from '../lib/definitions';
 
 export default async function Deck(props: PageProps<any>) {
-  // Check if colors is an array before mapping to avoid errors
+  // Check if shirts is an array before mapping to avoid errors
   if (!Array.isArray(shirts)) {
     return <p>No products available.</p>;
   }
