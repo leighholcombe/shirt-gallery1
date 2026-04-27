@@ -68,5 +68,10 @@
     "name": "Olive",
     "value": "olive",
     "class": "lime-800"
+  },
+  {
+    "name": "Heather Gray",
+    "value": "heather",
+    "class": "zinc-800"
   }
 ]

@@ -146,7 +146,7 @@
     "description": "Schwag for C2, the in-house design agency at Schwab. From an event I didn't attend in 2022.",
     "color": "black",
     "sleeves": "short",
-    "tag_array": ["brands"],
+    "tag_array": ["schwablife"],
     "archived": true
   },
   {
@@ -214,7 +214,7 @@
     "title": "Mammoth Cave NP",
     "image": "/images/shirt-mammothdiamond.jpg",
     "description": "Bought at Mammoth Cave National Park, when I visited with my sister Terry during the pandemic.",
-    "color": "gray",
+    "color": "heather",
     "sleeves": "short",
     "tag_array": ["nationalparks", "kentucky"],
     "archived": true
@@ -274,7 +274,7 @@
     "title": "Redwoods NP",
     "image": "/images/shirt-redwoodtrailer.jpg",
     "description": "I knew it was too small, but I loved the design and wanted to make sure I got something from Redwoods.",
-    "color": "green",
+    "color": "olive",
     "sleeves": "short",
     "tag_array": ["nationalparks", "california", "pacificnorthwest"],
     "archived": true
@@ -354,7 +354,7 @@
     "title": "Three Rats",
     "image": "/images/shirt-threerats.jpg",
     "description": "Three rats. For no reason at all.",
-    "color": "gray",
+    "color": "heather",
     "sleeves": "short",
     "tag_array": ["indyartists", "animals"],
     "archived": true
@@ -374,7 +374,7 @@
     "title": "Warrior Dash 2017",
     "image": "/images/shirt-warriordash.jpg",
     "description": "Souvenir from the Warrior Dash, an obstacle course race I ran in 2017.",
-    "color": "gray",
+    "color": "heather",
     "sleeves": "short",
     "tag_array": ["events"],
     "archived": true
@@ -484,7 +484,7 @@
     "title": "Glacier Moose",
     "image": "/images/shirt-glaciermoose.jpg",
     "description": "Moose and sunset design from Glacier National Park. I actually bought this before I saw a moose at Glacier.",
-    "color": "gray",
+    "color": "heather",
     "sleeves": "short",
     "tag_array": ["montana", "nationalparks", "animals"],
     "archived": true
@@ -603,10 +603,10 @@
     "id": 100061,
     "title": "REI",
     "image": "/images/shirt-reiblue.jpg",
-    "description": "Logo of the outdoor brand REI.",
+    "description": "Logo of the outdoor store and brand REI.",
     "color": "teal",
     "sleeves": "short",
-    "tag_array": ["brands"],
+    "tag_array": ["stores"],
     "archived": true
   },
   {
@@ -636,7 +636,7 @@
     "description": "Pun shirt purchased by a friend in New Mexico. We have since found that this style is sold all over the country.",
     "color": "orange",
     "sleeves": "short",
-    "tag_array": ["parody", "newmexico"],
+    "tag_array": ["parody", "newmexico", "food"],
     "archived": true
   },
   {
@@ -697,6 +697,426 @@
     "color": "purple",
     "sleeves": "short",
     "tag_array": ["canada", "pacificnorthwest"],
+    "archived": true
+  },
+  {
+    "id": 100071,
+    "title": "RZA as Bobby Digital",
+    "image": "/images/shirt-bobbydigital.jpg",
+    "description": "Cover art for the debut album of Bobby Digital, an alter ego of Wu-Tang founder RZA.",
+    "color": "white",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": true
+  },
+  {
+    "id": 100072,
+    "title": "Alt National Park Service",
+    "image": "/images/shirt-altnpsgray.jpg",
+    "description": "Logo from the Alt National Park Service, a social media phenomenon from 2017.",
+    "color": "gray",
+    "sleeves": "short",
+    "tag_array": ["nationalparks", "politics"],
+    "archived": true
+  },
+  {
+    "id": 100073,
+    "title": "Basic Blue",
+    "image": "/images/shirt-boringblue.jpg",
+    "description": "There's only one good reason to own a boring long-sleeved blue shirt: I needed it for a Smurfs Halloween costume.",
+    "color": "blue",
+    "sleeves": "long",
+    "tag_array": ["schwablife"],
+    "archived": true
+  },
+  {
+    "id": 100074,
+    "title": "Breck",
+    "image": "/images/shirt-breck.jpg",
+    "description": "Official corporate logo for the Breckinridge ski area, with a Colorado flag on the back.",
+    "color": "gray",
+    "sleeves": "short",
+    "tag_array": ["brands", "colorado"],
+    "archived": true
+  },
+  {
+    "id": 100075,
+    "title": "C2 Magic",
+    "image": "/images/shirt-c2magic.jpg",
+    "description": "Memoir of a C2 event that was organized around a viral dance video.",
+    "color": "blue",
+    "sleeves": "short",
+    "tag_array": ["schwablife"],
+    "archived": true
+  },
+  {
+    "id": 100076,
+    "title": "Plans",
+    "image": "/images/shirt-c2rogueone.jpg",
+    "description": "Memoir of a Schwab event that was organized around the release of the Star Wars film Rogue One.",
+    "color": "heather",
+    "sleeves": "short",
+    "tag_array": ["schwablife", "starwars"],
+    "archived": true
+  },
+  {
+    "id": 100077,
+    "title": "Carlsbad Caverns 2016",
+    "image": "/images/shirt-carlsbad2016.jpg",
+    "description": "Purchased at Carlsbad Caverns NP, memorializing the 100 year anniversary of the National Park System.",
+    "color": "olive",
+    "sleeves": "short",
+    "tag_array": ["nationalparks", "newmexico"],
+    "archived": true
+  },
+  {
+    "id": 100078,
+    "title": "Cowboy Bebop",
+    "image": "/images/shirt-cowboybebop.jpg",
+    "description": "A friend who reads Japanese says that this shirt actually says Cowboy Hebop, which is probably a trick to get around a licensing suit.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["moviestv"],
+    "archived": true
+  },
+  {
+    "id": 100079,
+    "title": "D&D Red Box",
+    "image": "/images/shirt-dndredbox.jpg",
+    "description": "The most memorable release of the D&D game was in a red box that had this graphic on the cover.",
+    "color": "red",
+    "sleeves": "short",
+    "tag_array": ["games"],
+    "archived": true
+  },
+  {
+    "id": 100080,
+    "title": "Enjoy Slurm",
+    "image": "/images/shirt-enjoyslurm.jpg",
+    "description": "Slurm was the name of a highly caffeinated and addictive drink on the show Futurama. It was a thinly veiled parody of Mountain Dew.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["moviestv"],
+    "archived": true
+  },
+  {
+    "id": 100081,
+    "title": "Fast and Curious",
+    "image": "/images/shirt-fastcurious.jpg",
+    "description": "Feline parody of the Fast and Furious film series. I hope somewhere out there, there's a shirt for 2Fast2Curious.",
+    "color": "purple",
+    "sleeves": "short",
+    "tag_array": ["parody", "animals"],
+    "archived": true
+  },
+  {
+    "id": 100082,
+    "title": "Native Raven",
+    "image": "/images/shirt-ferryraven.jpg",
+    "description": "This shirt, which is an imitation of a northwestern Native American art style, was purchased on the ferry from Vancouver to Victoria.",
+    "color": "darkblue",
+    "sleeves": "short",
+    "tag_array": ["nativeamerican", "pacificnorthwest"],
+    "archived": true
+  },
+  {
+    "id": 100083,
+    "title": "George Washington",
+    "image": "/images/shirt-georgewashington.jpg",
+    "description": "My dad's idea of a hilarious political commentary.",
+    "color": "darkblue",
+    "sleeves": "short",
+    "tag_array": ["politics"],
+    "archived": true
+  },
+  {
+    "id": 100084,
+    "title": "Glacier NP",
+    "image": "/images/shirt-glacierround.jpg",
+    "description": "One of many from Glacier National Park in Montana.",
+    "color": "darkblue",
+    "sleeves": "short",
+    "tag_array": ["nationalparks", "montana"],
+    "archived": true
+  },
+  {
+    "id": 100085,
+    "title": "Never Look Back",
+    "image": "/images/shirt-goldfingerneverlookback.jpg",
+    "description": "Promo t-shirt which came bundled with the 2020 vinyl album release of Goldfinger's album 'Never Look Back'.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": true
+  },
+  {
+    "id": 100086,
+    "title": "Celebrate Diversity",
+    "image": "/images/shirt-guitardiversity.jpg",
+    "description": "Proud to say I own a guitar that matches each of these form factors.",
+    "color": "white",
+    "sleeves": "short",
+    "tag_array": ["guitar", "music"],
+    "archived": true
+  },
+  {
+    "id": 100087,
+    "title": "Taco",
+    "image": "/images/shirt-hottaketaco.jpg",
+    "description": "Probably the most controversial shirt I own. A hot dog is not a sandwich.",
+    "color": "gray",
+    "sleeves": "short",
+    "tag_array": ["food", "parody"],
+    "archived": true
+  },
+  {
+    "id": 100088,
+    "title": "All Glory to the Hypnotoad",
+    "image": "/images/shirt-hypnotoad.jpg",
+    "description": "The hypnotoad is an alien species from Futurama that demands your complete attention.",
+    "color": "white",
+    "sleeves": "short",
+    "tag_array": ["moviestv", "animals"],
+    "archived": true
+  },
+  {
+    "id": 100089,
+    "title": "Hyrule Field NP",
+    "image": "/images/shirt-hyrulefieldnp.jpg",
+    "description": "Parody of typical National Park designs. Hyrule Field is a notable area in the video game The Legend of Zelda: Breath of the Wild.",
+    "color": "green",
+    "sleeves": "short",
+    "tag_array": ["videogames", "parody"],
+    "archived": true
+  },
+  {
+    "id": 100090,
+    "title": "Important",
+    "image": "/images/shirt-important.jpg",
+    "description": "For most programmers, an exclamation is the same as saying 'not'. But in CSS, it means something quite different.",
+    "color": "red",
+    "sleeves": "short",
+    "tag_array": ["computers"],
+    "archived": true
+  },
+  {
+    "id": 100091,
+    "title": "jQuery",
+    "image": "/images/shirt-jquery.jpg",
+    "description": "At one time, jQuery was the most important JavaScript library on the web, and knowing how to use it was cool.",
+    "color": "darkblue",
+    "sleeves": "short",
+    "tag_array": ["computers"],
+    "archived": true
+  },
+  {
+    "id": 100092,
+    "title": "Liquid Swords",
+    "image": "/images/shirt-liquidswords.jpg",
+    "description": "The first solo album by GZA from the Wu Tang Clan is one of the greatest hip-hop albums ever released.",
+    "color": "darkblue",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": true
+  },
+  {
+    "id": 100093,
+    "title": "La Dama",
+    "image": "/images/shirt-loterialadama.jpg",
+    "description": "Loteria is a Mexican game similar to Bingo - but instead of numbers, they use cards with archetype characters on them. An independent artist in Austin made a Star Wars version of the game, and put many of the cards on shirts. 'La Dama' is 'the lady', represented here as Princess Leia.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["starwars", "parody", "games", "indyartists"],
+    "archived": true
+  },
+  {
+    "id": 100094,
+    "title": "La Luna",
+    "image": "/images/shirt-loterialaluna.jpg",
+    "description": "Loteria is a Mexican game similar to Bingo - but instead of numbers, they use cards with archetype characters on them. An independent artist in Austin made a Star Wars version of the game, and put many of the cards on shirts. 'La Luna' is 'the moon', represented here as the second Death Star.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["starwars", "parody", "games", "indyartists"],
+    "archived": true
+  },
+  {
+    "id": 100095,
+    "title": "Less Than Jake Tour",
+    "image": "/images/shirt-ltjtour.jpg",
+    "description": "Purchased at the Houston show at House of Blues in February 2015. My friend and I got to watch the band from backstage, and then saw the band drinking at The Dirt Bar after the show.",
+    "color": "blue",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": true
+  },
+  {
+    "id": 100096,
+    "title": "Maki Orange",
+    "image": "/images/shirt-makiorange.jpg",
+    "description": "I didn't spend a lot of time on land in Madagascar, but I did visit a t-shirt shop and picked up a couple things. This one got some engine grease on it shortly after purchase, and was almost ruined.",
+    "color": "orange",
+    "sleeves": "long",
+    "tag_array": ["stores", "madagascar"],
+    "archived": true
+  },
+  {
+    "id": 100097,
+    "title": "Maki Gray",
+    "image": "/images/shirt-makigray.jpg",
+    "description": "I didn't spend a lot of time on land in Madagascar, but I did visit a t-shirt shop and picked up a couple things.",
+    "color": "gray",
+    "sleeves": "long",
+    "tag_array": ["stores", "madagascar"],
+    "archived": true
+  },
+  {
+    "id": 100098,
+    "title": "NOAA",
+    "image": "/images/shirt-noaalogo.jpg",
+    "description": "My dad used to work for the National Oceanographic and Atmospheric Administration, so I got us matching shirts.",
+    "color": "blue",
+    "sleeves": "short",
+    "tag_array": ["politics"],
+    "archived": true
+  },
+  {
+    "id": 100099,
+    "title": "OBNE",
+    "image": "/images/shirt-obnelogo.jpg",
+    "description": "Old Blood Noise Endeavors is a guitar effects pedal company.",
+    "color": "pink",
+    "sleeves": "short",
+    "tag_array": ["guitar", "music"],
+    "archived": true
+  },
+  {
+    "id": 100100,
+    "title": "Powell Peralta",
+    "image": "/images/shirt-powellwings.jpg",
+    "description": "Classic Powell Peralta logo - this design appeared on the top of half a dozen of my favorite skateboard decks in the 80s.",
+    "color": "darkblue",
+    "sleeves": "short",
+    "tag_array": ["skateboarding"],
+    "archived": true
+  },
+  {
+    "id": 100101,
+    "title": "Today's Empires, Tomorrow's Ashes",
+    "image": "/images/shirt-propagandhiashes.jpg",
+    "description": "Promo t-shirt that came bundled with the vinyl re-release of Propagandhi's 2001 album 'Today's Empires, Tomorrow's Ashes'.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": true
+  },
+  {
+    "id": 100102,
+    "title": "Victory Lap",
+    "image": "/images/shirt-propagandhivictory.jpg",
+    "description": "Promo t-shirt that came bundled with the vinyl release of Propagandhi's 2017 album 'Victory Lap'.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": true
+  },
+  {
+    "id": 100103,
+    "title": "Public Enemy",
+    "image": "/images/shirt-publicenemy.jpg",
+    "description": "Chuck D studied graphic arts before he formed Public Enemy, and he created the group's logo.",
+    "color": "yellow",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": true
+  },
+  {
+    "id": 100104,
+    "title": "Rainier 1899",
+    "image": "/images/shirt-rainier1899.jpg",
+    "description": "Mt Rainier National Park was established in 1899.",
+    "color": "gray",
+    "sleeves": "short",
+    "tag_array": ["nationalparks", "washington", "pacificnorthwest"],
+    "archived": true
+  },
+  {
+    "id": 100105,
+    "title": "Robot Oil",
+    "image": "/images/shirt-robotoil.jpg",
+    "description": "Mom's Old-fashioned Robot Oil is a fictional product on Futurama.",
+    "color": "heather",
+    "sleeves": "short",
+    "tag_array": ["moviestv"],
+    "archived": true
+  },
+  {
+    "id": 100106,
+    "title": "Schwab Intelligent Advisory",
+    "image": "/images/shirt-schwabsia.jpg",
+    "description": "Promo t-shirt for a former Schwab advice product. I think I got this leftover right before the business line closed.",
+    "color": "heather",
+    "sleeves": "short",
+    "tag_array": ["schwablife"],
+    "archived": true
+  },
+  {
+    "id": 100107,
+    "title": "Shark Valley",
+    "image": "/images/shirt-sharkvalley.jpg",
+    "description": "Shark Valley is a region of Everglades National Park in Florida. Sharks sometimes enter the wetlands during storm tides and then get trapped far inland. (There are also alligators.)",
+    "color": "teal",
+    "sleeves": "short",
+    "tag_array": ["nationalparks", "florida", "animals"],
+    "archived": true
+  },
+  {
+    "id": 100108,
+    "title": "The Center Won't Hold",
+    "image": "/images/shirt-skcenter.jpg",
+    "description": "Promo t-shirt that came bundled with the vinyl release of Sleater Kinney's 2019 album 'The Center Won't Hold'. Hard to tell if the graphic is an eye or a mouth or both, which is creepy.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": true
+  },
+  {
+    "id": 100109,
+    "title": "Thirsty Mermaid",
+    "image": "/images/shirt-thirstymermaid.jpg",
+    "description": "Thirsty Mermaid is a restaurant in Key West, Florida, where I ate lunch in November 2018.",
+    "color": "gray",
+    "sleeves": "short",
+    "tag_array": ["florida", "food"],
+    "archived": true
+  },
+  {
+    "id": 100110,
+    "title": "I'm On the Leader",
+    "image": "/images/shirt-tiefightertarget.jpg",
+    "description": "Targeting graphic seen in TIE Figters in Star Wars. I heard that some of the characters in the Empire's alphabet (shown here) are Hebrew characters turned sideways.",
+    "color": "darkblue",
+    "sleeves": "short",
+    "tag_array": ["starwars"],
+    "archived": true
+  },
+  {
+    "id": 100111,
+    "title": "The Wi-Fi Is Down",
+    "image": "/images/shirt-wifidown.jpg",
+    "description": "This shirt's meaning is ambiguous. Are we returning to the prehistoric era because the wi-fi is down? Or am I roaring like a T-Rex because of a minor inconvenience? Or both?",
+    "color": "gray",
+    "sleeves": "short",
+    "tag_array": ["animals"],
+    "archived": true
+  },
+  {
+    "id": 100102,
+    "title": "Dark Side of the Moon",
+    "image": "/images/shirt-xwingprism.jpg",
+    "description": "Star Wars parody of the Pink Floyd album 'Dark Side of the Moon'. Because obviously, that's no moon, it's a space station.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["starwars", "parody"],
     "archived": true
   }
 ]

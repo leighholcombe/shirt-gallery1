@@ -3,6 +3,8 @@ import { Shirt } from '../lib/definitions';
 import Image from "next/image";
 import colors from '@/public/data/colors.json';
 import Color from '../components/colors';
+import tags from '@/public/data/tags.json';
+import Tag from '../components/tags';
 
 export default async function Page( {params}:any ) {
   const { id } = await params;
@@ -20,6 +22,7 @@ export default async function Page( {params}:any ) {
   if (result.length > 0) {
     const item = result[0];
     const archive = (item.archived) ? "yes" : "no";
+    const tag_array = item.tag_array;
     
     return (
       <div className="flex flex-col items-center">
@@ -35,17 +38,32 @@ export default async function Page( {params}:any ) {
         <p className="text-xl">{item.description}</p>
         <p>Sleeve: {item.sleeves}</p>
         <p className="mb-3">Archive: {archive}</p>
-        {colors.map((swatch) => {
-          if(swatch.value == item.color) {
-            return (
-              <Color
-                key={swatch.value}
-                colorParam={swatch.value}
-                selected={false}
-              />
-            )
-          }
-        })}
+        <div>
+          {colors.map((swatch) => {
+            if(swatch.value == item.color) {
+              return (
+                <Color
+                  key={swatch.value}
+                  colorParam={swatch.value}
+                  selected={false}
+                />
+              )
+            }
+          })}
+        </div>
+        <div className="flex gap-3 flex-wrap mt-3">
+          {tags.map((cat) => {
+            if(tag_array.includes(cat.value)) {
+              return (
+                <Tag
+                  key={cat.value}
+                  tagParam={cat.value}
+                  selected={false}
+                />
+              )
+            }
+          })}
+        </div>
       </div>
     )
 

@@ -16,7 +16,7 @@
     "value": "pacificnorthwest"
   },
   {
-    "name": "Native American and First Nations",
+    "name": "Native American & First Nations",
     "value": "nativeamerican"
   },
   {
@@ -174,5 +174,29 @@
   {
     "name": "Florida",
     "value": "florida"
+  },
+  {
+    "name": "Movies & TV",
+    "value": "moviestv"
+  },
+  {
+    "name": "Charles Schwab",
+    "value": "schwablife"
+  },
+  {
+    "name": "Food",
+    "value": "food"
+  },
+  {
+    "name": "Computers & Programming",
+    "value": "computers"
+  },
+  {
+    "name": "Games",
+    "value": "games"
+  },
+  {
+    "name": "Madagascar",
+    "value": "madagascar"
   }
 ]
