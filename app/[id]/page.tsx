@@ -25,44 +25,46 @@ export default async function Page( {params}:any ) {
     const tag_array = item.tag_array;
     
     return (
-      <div className="flex flex-col items-center">
-        <h2 className="text-2xl mb-3">{item.title}</h2>
-        <div className="relative h-[60vh] w-3xl mb-3">
-          <Image
-            src={item.image}
-            fill={true}
-            alt={item.title}
-            objectFit={"contain"}
-          />
-        </div>
-        <p className="text-xl">{item.description}</p>
-        <p>Sleeve: {item.sleeves}</p>
-        <p className="mb-3">Archive: {archive}</p>
-        <div>
-          {colors.map((swatch) => {
-            if(swatch.value == item.color) {
-              return (
-                <Color
-                  key={swatch.value}
-                  colorParam={swatch.value}
-                  selected={false}
-                />
-              )
-            }
-          })}
-        </div>
-        <div className="flex gap-3 flex-wrap mt-3">
-          {tags.map((cat) => {
-            if(tag_array.includes(cat.value)) {
-              return (
-                <Tag
-                  key={cat.value}
-                  tagParam={cat.value}
-                  selected={false}
-                />
-              )
-            }
-          })}
+      <div>
+        <div className="flex flex-col items-center">
+          <h2 className="text-2xl mb-3">{item.title}</h2>
+          <div className="relative h-[60vh] w-3xl mb-3">
+            <Image
+              src={item.image}
+              fill={true}
+              alt={item.title}
+              objectFit={"contain"}
+            />
+          </div>
+          <p className="text-xl">{item.description}</p>
+          <p>Sleeve: {item.sleeves}</p>
+          <p className="mb-3">Archive: {archive}</p>
+          <div>
+            {colors.map((swatch) => {
+              if(swatch.value == item.color) {
+                return (
+                  <Color
+                    key={swatch.value}
+                    colorParam={swatch.value}
+                    selected={false}
+                  />
+                )
+              }
+            })}
+          </div>
+          <div className="flex gap-3 flex-wrap mt-3">
+            {tags.map((cat) => {
+              if(tag_array.includes(cat.value)) {
+                return (
+                  <Tag
+                    key={cat.value}
+                    tagParam={cat.value}
+                    selected={false}
+                  />
+                )
+              }
+            })}
+          </div>
         </div>
       </div>
     )

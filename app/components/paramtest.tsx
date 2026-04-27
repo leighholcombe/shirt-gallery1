@@ -7,16 +7,16 @@ export default async function ParamTest(props: PageProps<any>) {
   const cat = searchParams.cat;
 
   let message;
-  if (color !== null) {
+  if (color !== null && color !== undefined) {
     colors.forEach((swatch) => {
       if(swatch.value == color) {
         message = "Filter is set to color " + swatch.name;
       }
     });
-  } else if (cat !== null) {
+  } else if (cat !== null && cat !== undefined) {
     tags.forEach((tag) => {
       if(tag.value == cat) {
-        message = "Filter is set to tag " + tag.name;
+        message = "Filter is set to category " + tag.name;
       }
     });
   } else {

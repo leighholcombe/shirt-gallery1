@@ -1,5 +1,3 @@
-import tags from '@/public/data/tags.json';
-import colors from '@/public/data/colors.json';
 import Card from './card';
 import shirts from '@/public/data/shirts.json';
 import { shuffle } from '../lib/utilities';
@@ -14,10 +12,8 @@ export default async function Deck(props: PageProps<any>) {
   const searchParams = await props.searchParams;
   let color = searchParams.color;
   let cat = searchParams.cat;
-  let productCounter = 0;
-  let limitedArray: Array<any> = [];
   let resultArray: Array<Shirt> = [];
-  let errorMessage = "";
+  let headingText = "";
   shirts.forEach((shirt) => {
     if(cat) {
       if(Array.isArray(cat)) {
@@ -26,29 +22,27 @@ export default async function Deck(props: PageProps<any>) {
       if(shirt.tag_array.includes(cat)) {
         resultArray.push(shirt);
       }
-      if(resultArray.length == 0) {
-        errorMessage = "No results found for the selected category";
-      }
     } else if(color) {
       if(shirt.color == color) {
         resultArray.push(shirt);
-      }
-      if(resultArray.length == 0) {
-        errorMessage = "No results found for the selected color";
       }
     } else {
       resultArray.push(shirt);
     }
     resultArray = shuffle(resultArray);
-    limitedArray = resultArray.slice(0, arrayLimit);
   })
+  headingText = "Shirts in filter: " + resultArray.length;
+  if (!cat && !color) {
+    headingText = "Shirts in inventory: " + resultArray.length + " (limit " + arrayLimit + ")";
+    resultArray = resultArray.slice(0, arrayLimit);
+  }
 
-  if(limitedArray && limitedArray.length > 0) {
+  if(resultArray && resultArray.length > 0) {
     return (
       <div>
-        <h2 className="mb-2">Shirts in inventory (limit {arrayLimit})</h2>
+        <h2 className="mb-3">{headingText}</h2>
         <div className="flex gap-3 items-center flex-row flex-wrap">
-          {limitedArray.map((shirt) => {
+          {resultArray.map((shirt) => {
             return (
               <Card
                 key={shirt.id}
@@ -68,7 +62,7 @@ export default async function Deck(props: PageProps<any>) {
     );
   } else {
     return (
-      <div><p>{errorMessage}</p></div>
+      <div><p>No results found for selected filter.</p></div>
     )
   }
 }
