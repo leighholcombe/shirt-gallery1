@@ -56,7 +56,7 @@
     "description": "1980s skateboard graphic from the original Natas Kaupas deck from Santa Monica Airlines.",
     "color": "white",
     "sleeves": "short",
-    "tag_array": ["skateboarding"],
+    "tag_array": ["surfskate"],
     "archived": true
   },
   {
@@ -106,7 +106,7 @@
     "description": "This shirt was already quite faded when I bought it brand new at Buc-ee's. Features an octopus and the word 'Aquaholic.'",
     "color": "gray",
     "sleeves": "short",
-    "tag_array": ["brands", "animals", "texas"],
+    "tag_array": ["stores", "animals", "texas"],
     "archived": true
   },
   {
@@ -266,7 +266,7 @@
     "description": "Humorous shirt I found at a skateboard shop in Oslo, Norway.",
     "color": "black",
     "sleeves": "short",
-    "tag_array": ["skateboarding", "norway", "indyartists"],
+    "tag_array": ["surfskate", "norway", "indyartists"],
     "archived": true
   },
   {
@@ -516,7 +516,7 @@
     "description": "Shirt released along with the Less Than Jake album Silver Linings. With blue baseball-style sleeves.",
     "color": "white",
     "sleeves": "baseball",
-    "tag_array": ["music", "bands"],
+    "tag_array": ["music", "bands", "longsleeved"],
     "archived": true
   },
   {
@@ -666,7 +666,7 @@
     "description": "I actually had this shirt in high school, but in white. It's an obvious parody of Roy Lichtenstein's comics panels. Occasionally, some dope will ask my if this means I have a boyfriend. Am I the girl in the drawing?",
     "color": "black",
     "sleeves": "short",
-    "tag_array": ["skateboarding", "brands", "parody"],
+    "tag_array": ["surfskate", "parody"],
     "archived": true
   },
   {
@@ -726,7 +726,7 @@
     "description": "There's only one good reason to own a boring long-sleeved blue shirt: I needed it for a Smurfs Halloween costume.",
     "color": "blue",
     "sleeves": "long",
-    "tag_array": ["schwablife"],
+    "tag_array": ["schwablife", "longsleeved"],
     "archived": true
   },
   {
@@ -956,7 +956,7 @@
     "description": "I didn't spend a lot of time on land in Madagascar, but I did visit a t-shirt shop and picked up a couple things. This one got some engine grease on it shortly after purchase, and was almost ruined.",
     "color": "orange",
     "sleeves": "long",
-    "tag_array": ["stores", "madagascar"],
+    "tag_array": ["stores", "madagascar", "longsleeved"],
     "archived": true
   },
   {
@@ -966,7 +966,7 @@
     "description": "I didn't spend a lot of time on land in Madagascar, but I did visit a t-shirt shop and picked up a couple things.",
     "color": "gray",
     "sleeves": "long",
-    "tag_array": ["stores", "madagascar"],
+    "tag_array": ["stores", "madagascar", "longsleeved"],
     "archived": true
   },
   {
@@ -996,7 +996,7 @@
     "description": "Classic Powell Peralta logo - this design appeared on the top of half a dozen of my favorite skateboard decks in the 80s.",
     "color": "darkblue",
     "sleeves": "short",
-    "tag_array": ["skateboarding"],
+    "tag_array": ["surfskate"],
     "archived": true
   },
   {
@@ -1118,5 +1118,255 @@
     "sleeves": "short",
     "tag_array": ["starwars", "parody"],
     "archived": true
+  },
+  {
+    "id": 100113,
+    "title": "Arches Long",
+    "image": "/images/shirt-archeslong.jpg",
+    "description": "Arches National Park near Moab, Utah.",
+    "color": "teal",
+    "sleeves": "long",
+    "tag_array": ["nationalparks", "utah", "longsleeved"],
+    "archived": false
+  },
+  {
+    "id": 100114,
+    "title": "Astoria Bridge",
+    "image": "/images/shirt-astoriabridge.jpg",
+    "description": "One of the most unique long-sleeved designs I have seen - the long and flat part of the Astoria-Megler Bridge extends onto the arm of the shirt.",
+    "color": "heather",
+    "sleeves": "long",
+    "tag_array": ["oregon", "pacificnorthwest", "longsleeved"],
+    "archived": false
+  },
+  {
+    "id": 100115,
+    "title": "Bryce Canyon Long",
+    "image": "/images/shirt-brycelong.jpg",
+    "description": "Bryce Canyon National Park is in Utah.",
+    "color": "heather",
+    "sleeves": "long",
+    "tag_array": ["nationalparks", "utah", "longsleeved"],
+    "archived": false
+  },
+  {
+    "id": 100116,
+    "title": "Cleanline Surf",
+    "image": "/images/shirt-cleanlinelong.jpg",
+    "description": "Cleanline Surf Shop is in Cannon Beach, Oregon.",
+    "color": "gray",
+    "sleeves": "long",
+    "tag_array": ["oregon", "stores", "pacificnorthwest", "surfskate", "longsleeved"],
+    "archived": false
+  },
+  {
+    "id": 100117,
+    "title": "Crater Lake Long",
+    "image": "/images/shirt-craterlakelong.jpg",
+    "description": "Crater Lake National Park is in Oregon.",
+    "color": "red",
+    "sleeves": "long",
+    "tag_array": ["nationalparks", "oregon", "longsleeved", "pacificnorthwest"],
+    "archived": false
+  },
+  {
+    "id": 100118,
+    "title": "Discraft Buzz",
+    "image": "/images/shirt-discraftbuzz.jpg",
+    "description": "The Buzz is a very popular golf disc made by Discraft.",
+    "color": "darkblue",
+    "sleeves": "short",
+    "tag_array": ["sports", "brands", "drifit"],
+    "archived": false
+  },
+  {
+    "id": 100119,
+    "title": "Felleskjøpet Cow",
+    "image": "/images/shirt-fkcow.jpg",
+    "description": "Felleskjøpet is a store for agriculture professionals in Norway. We heard they had good prices on reindeer furs there. We also bought extra warm clothing for our mountain glamping experience. The store employees were surprised to have English-speaking tourist customers.",
+    "color": "green",
+    "sleeves": "long",
+    "tag_array": ["norway", "brands", "longsleeved", "animals"],
+    "archived": false
+  },
+  {
+    "id": 100120,
+    "title": "Great Smoky Mountains Dri",
+    "image": "/images/shirt-gsmnpdri.jpg",
+    "description": "Great Smoky Mountains National Park is in Tennessee.",
+    "color": "tan",
+    "sleeves": "short",
+    "tag_array": ["nationalparks", "tennessee", "drifit"],
+    "archived": false
+  },
+  {
+    "id": 100121,
+    "title": "Guadalupe Mountains Dri",
+    "image": "/images/shirt-guadalupedri.jpg",
+    "description": "Guadalupe Mountains National Park is in Texas.",
+    "color": "white",
+    "sleeves": "short",
+    "tag_array": ["nationalparks", "texas", "drifit"],
+    "archived": false
+  },
+  {
+    "id": 100122,
+    "title": "Great Smoky Mountains Long",
+    "image": "/images/shirt-gsmnplong.jpg",
+    "description": "Word cloud of places Great Smoky Mountains National Park.",
+    "color": "black",
+    "sleeves": "long",
+    "tag_array": ["nationalparks", "tennessee", "longsleeved", "animals"],
+    "archived": false
+  },
+  {
+    "id": 100123,
+    "title": "Jungfraujoch",
+    "image": "/images/shirt-jungfrau.jpg",
+    "description": "Jungfraujoch, which calls itself the Top of Europe, is an Alpine location with panoramic vistas.",
+    "color": "heather",
+    "sleeves": "long",
+    "tag_array": ["switzerland", "longsleeved"],
+    "archived": false
+  },
+  {
+    "id": 100124,
+    "title": "Seattle Kraken",
+    "image": "/images/shirt-kraken.jpg",
+    "description": "I really like the logo of the Seattle Kraken NHL team - the top of the anchor looks like the Space Needle.",
+    "color": "heather",
+    "sleeves": "long",
+    "tag_array": ["washington", "pacificnorthwest", "longsleeved", "sports"],
+    "archived": false
+  },
+  {
+    "id": 100125,
+    "title": "Mt St Helens",
+    "image": "/images/shirt-mtsthelens.jpg",
+    "description": "It's very funny the way this shirt plays on the word 'established' as Mt St Helens existed for centuries as a random peak in a National Forest before it erupted.",
+    "color": "heather",
+    "sleeves": "long",
+    "tag_array": ["washington", "pacificnorthwest", "longsleeved", "nationalparks"],
+    "archived": false
+  },
+  {
+    "id": 100126,
+    "title": "Nike Gray",
+    "image": "/images/shirt-nikegray.jpg",
+    "description": "Plain gray Nike shirt provides excellent sun protection.",
+    "color": "gray",
+    "sleeves": "long",
+    "tag_array": ["brands", "longsleeved"],
+    "archived": false
+  },
+  {
+    "id": 100127,
+    "title": "Nike Lime",
+    "image": "/images/shirt-nikelime.jpg",
+    "description": "Athleisure wear should come in fun colors.",
+    "color": "green",
+    "sleeves": "short",
+    "tag_array": ["brands", "drifit"],
+    "archived": false
+  },
+  {
+    "id": 100128,
+    "title": "North Cascades",
+    "image": "/images/shirt-northcascades.jpg",
+    "description": "North Cascades is a fairly new and relatively unvisited National Park in Washington.",
+    "color": "darkblue",
+    "sleeves": "long",
+    "tag_array": ["washington", "pacificnorthwest", "longsleeved", "nationalparks"],
+    "archived": false
+  },
+  {
+    "id": 100129,
+    "title": "Mt Rainier Long",
+    "image": "/images/shirt-rainierlong.jpg",
+    "description": "Mt Rainier National Park is in Washington and on clear days is visible from Seattle.",
+    "color": "red",
+    "sleeves": "long",
+    "tag_array": ["washington", "pacificnorthwest", "longsleeved", "nationalparks"],
+    "archived": false
+  },
+  {
+    "id": 100130,
+    "title": "REI Base Layer",
+    "image": "/images/shirt-reibase.jpg",
+    "description": "A moisture-wicking base layer is an important part of staying warm.",
+    "color": "black",
+    "sleeves": "long",
+    "tag_array": ["brands", "longsleeved"],
+    "archived": false
+  },
+  {
+    "id": 100131,
+    "title": "Rocky Mountain NP",
+    "image": "/images/shirt-rmnplong.jpg",
+    "description": "Rocky Mountain National Park is in Colorado.",
+    "color": "darkblue",
+    "sleeves": "long",
+    "tag_array": ["colorado", "longsleeved", "nationalparks"],
+    "archived": false
+  },
+  {
+    "id": 100132,
+    "title": "Rip Curl Rash Guard",
+    "image": "/images/shirt-ripcurlrashguard.jpg",
+    "description": "A rash guard is a non-chafing shirt to wear in the water. Commonly used for surfing, but I mostly wear it in the pool.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["surfskate", "brands"],
+    "archived": false
+  },
+  {
+    "id": 100133,
+    "title": "We Made History",
+    "image": "/images/shirt-schameritrade.jpg",
+    "description": "Souveneir schwag from that one time Schwab took over TD Ameritrade.",
+    "color": "teal",
+    "sleeves": "long",
+    "tag_array": ["schwablife", "longsleeved"],
+    "archived": false
+  },
+  {
+    "id": 100134,
+    "title": "Tongass National Forest",
+    "image": "/images/shirt-tongassnf.jpg",
+    "description": "Tongass National Forest is in southeast Alaska, and many of its recreation sites can be accessed from Juneau.",
+    "color": "tan",
+    "sleeves": "long",
+    "tag_array": ["alaska", "pacificnorthwest", "longsleeved", "nationalparks"],
+    "archived": false
+  },
+  {
+    "id": 100135,
+    "title": "Trees",
+    "image": "/images/shirt-treeslong.jpg",
+    "description": "Independent artist design from Ohana, Colorado. Purchased in Breckenridge.",
+    "color": "green",
+    "sleeves": "long",
+    "tag_array": ["colorado", "indyartists", "longsleeved"],
+    "archived": false
+  },
+  {
+    "id": 100136,
+    "title": "Under Armour Gray",
+    "image": "/images/shirt-underarmourgray.jpg",
+    "description": "A simple shirt for sweaty outdoor activities.",
+    "color": "heather",
+    "sleeves": "short",
+    "tag_array": ["drifit", "brands"],
+    "archived": false
+  },
+  {
+    "id": 100137,
+    "title": "Under Armour Green",
+    "image": "/images/shirt-underarmourgreen.jpg",
+    "description": "A simple shirt for sweaty outdoor activities.",
+    "color": "green",
+    "sleeves": "short",
+    "tag_array": ["drifit", "brands"],
+    "archived": false
   }
 ]

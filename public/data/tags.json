@@ -120,8 +120,8 @@
     "value": "wyoming"
   },
   {
-    "name": "Skateboarding",
-    "value": "skateboarding"
+    "name": "Surf & Skate",
+    "value": "surfskate"
   },
   {
     "name": "Animals",
@@ -198,5 +198,21 @@
   {
     "name": "Madagascar",
     "value": "madagascar"
+  },
+  {
+    "name": "Long-Sleeved",
+    "value": "longsleeved"
+  },
+  {
+    "name": "Dri-Fit",
+    "value": "drifit"
+  },
+  {
+    "name": "Tennessee",
+    "value": "tennessee"
+  },
+  {
+    "name": "Sports",
+    "value": "sports"
   }
 ]
