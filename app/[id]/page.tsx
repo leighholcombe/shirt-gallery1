@@ -38,7 +38,7 @@ export default async function Page( {params}:any ) {
           </div>
           <p className="text-xl">{item.description}</p>
           <p>Sleeve: {item.sleeves}</p>
-          <p className="mb-3">Archive: {archive}</p>
+          <p className="mb-3">Archived: {archive}</p>
           <div>
             {colors.map((swatch) => {
               if(swatch.value == item.color) {

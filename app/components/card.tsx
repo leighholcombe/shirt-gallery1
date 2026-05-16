@@ -12,9 +12,10 @@ export default function Card({ id, title, image, description, color, sleeves, ta
           src={image}
           fill={true}
           alt={title}
-          objectFit={"contain"}
+          className="object-contain"
         />
       </Link>
+      {archived && <div className="absolute right-0 bottom-0 bg-white text-red-900 px-2 py-1">Archived</div>}
     </div>
   )
 }

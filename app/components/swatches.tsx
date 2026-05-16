@@ -1,6 +1,5 @@
 import colors from '@/public/data/colors.json';
 import Color from './colors';
-import { ParamProps } from '../lib/definitions';
 
 export default async function Swatches(props: PageProps<any>) {
   // Check if colors is an array before mapping to avoid errors

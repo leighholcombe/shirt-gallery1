@@ -1,6 +1,5 @@
 import tags from '@/public/data/tags.json';
 import Tag from './tags';
-import { ParamProps } from '../lib/definitions';
 
 export default async function Chips(props: PageProps<any>) {
   // Check if tags is an array before mapping to avoid errors

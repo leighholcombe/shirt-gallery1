@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Swatches from "./components/swatches";
 import Chips from "./components/chips";
 import ParamTest from "./components/paramtest";
@@ -32,12 +31,18 @@ export default function Home(pageProps:any) {
             <Swatches {...pageProps}></Swatches>
           </Suspense>
         </section>
-        <section id="reset" className="my-6">
+        <section id="morelinks" className="my-6 flex gap-3 flex-wrap">
           <Link
             href="/"
             className="text-neutral-800 rounded-full block py-2 px-4 whitespace-nowrap hover:bg-sky-300 bg-sky-200 max-w-min"
           >
             Reset
+          </Link>
+          <Link
+            href="everything"
+            className="text-neutral-800 rounded-full block py-2 px-4 whitespace-nowrap hover:bg-sky-300 bg-sky-200 max-w-min"
+          >
+            See Everything
           </Link>
         </section>
       </main>
