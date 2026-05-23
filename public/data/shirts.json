@@ -1368,5 +1368,145 @@
     "sleeves": "short",
     "tag_array": ["drifit", "brands"],
     "archived": false
+  },
+  {
+    "id": 100138,
+    "title": "30th St Guitars, NYC",
+    "image": "/images/shirt-30thstguitars.jpg",
+    "description": "I was surprised to find out that 30th St Guitars is actually on 27th St in Chelsea. Great selection of effects pedals.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["music", "guitar", "stores", "animals", "newyork"],
+    "archived": false
+  },
+  {
+    "id": 100139,
+    "title": "Delicate Arch",
+    "image": "/images/shirt-archesdelicate.jpg",
+    "description": "This is one of the most inaccessible shirts I've ever seen. There's a list of notable arches from the National Park on the back, but it's almost unreadable.",
+    "color": "darkblue",
+    "sleeves": "short",
+    "tag_array": ["nationalparks", "utah"],
+    "archived": false
+  },
+  {
+    "id": 100140,
+    "title": "Believer",
+    "image": "/images/shirt-believer.jpg",
+    "description": "This design reminds me of the famous 'I want to believe' image from The X-Files.",
+    "color": "red",
+    "sleeves": "short",
+    "tag_array": ["indyartists"],
+    "archived": false
+  },
+  {
+    "id": 100141,
+    "title": "Belly King",
+    "image": "/images/shirt-bellyking30.jpg",
+    "description": "One of my favorite albums from one of my favorite bands turned 30 in 2025, and the band did a short tour to remind us. The Austin show was the day before my birthday.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": false
+  },
+  {
+    "id": 100142,
+    "title": "Thor's Hammer, Bryce Canyon",
+    "image": "/images/shirt-brycethorshammer.jpg",
+    "description": "Thor's Hammer is a notable hoodoo formation in Bryce Canyon National Park.",
+    "color": "darkblue",
+    "sleeves": "short",
+    "tag_array": ["nationalparks", "utah"],
+    "archived": false
+  },
+  {
+    "id": 100143,
+    "title": "Colorado Alumni",
+    "image": "/images/shirt-cualumni.jpg",
+    "description": "You don't have to graduate from CU to wear this shirt, but I did.",
+    "color": "heather",
+    "sleeves": "short",
+    "tag_array": ["sports", "colorado"],
+    "archived": false
+  },
+  {
+    "id": 100144,
+    "title": "Heavy Metal HM-2",
+    "image": "/images/shirt-hm2pedal.jpg",
+    "description": "The Boss HM-2 is a special favorite pedal of guitarists who play Swedish Death Metal and Norwegian Black Metal. All knobs must be set to 11 at all times.",
+    "color": "heather",
+    "sleeves": "short",
+    "tag_array": ["music", "guitar"],
+    "archived": false
+  },
+  {
+    "id": 100145,
+    "title": "Koaluv",
+    "image": "/images/shirt-koaluv.jpg",
+    "description": "The Black Summer bush fires in Australia devastated millions of acres of land, and may have killed as many as three billion animals. Koaluv was an organization that donated t-shirt profits to animal rescue efforts, so buying this seemed like a good deed. But now it turns out that the whole thing was a lie.",
+    "color": "brown",
+    "sleeves": "short",
+    "tag_array": ["animals"],
+    "archived": false
+  },
+  {
+    "id": 100146,
+    "title": "Norway Flag",
+    "image": "/images/shirt-norwayflag.jpg",
+    "description": "The flag of Norway, a beautiful country.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["norway"],
+    "archived": false
+  },
+  {
+    "id": 100147,
+    "title": "Pura Vida Surf Shop",
+    "image": "/images/shirt-puravidasurf.jpg",
+    "description": "Pura Vida is a surf shop on the Oregon Coast, near Otter Rock and the Devil's Punchbowl.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["stores", "oregon", "pacificnorthwest", "surfskate"],
+    "archived": false
+  },
+  {
+    "id": 100148,
+    "title": "Silver Falls Lichen",
+    "image": "/images/shirt-silverfalls.jpg",
+    "description": "Silver Falls State Park, which is famous for its waterfalls, is located a few miles east of Salem, Oregon.",
+    "color": "olive",
+    "sleeves": "short",
+    "tag_array": ["oregon", "pacificnorthwest"],
+    "archived": false
+  },
+  {
+    "id": 100149,
+    "title": "Sleater-Kinney",
+    "image": "/images/shirt-sleaterkinneythree.jpg",
+    "description": "This design is a handy reminder that Sleater-Kinney has three members.",
+    "color": "purple",
+    "sleeves": "short",
+    "tag_array": ["bands", "music"],
+    "archived": false
+  },
+  {
+    "id": 100150,
+    "title": "Star Wars Ships",
+    "image": "/images/shirt-starwarsships.jpg",
+    "description": "This Star Wars shirt shows an X-Wing, a TIE Advanced, an A-Wing, and the Millennium Falcon.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["starwars"],
+    "archived": false
+  },
+  {
+    "id": 100151,
+    "title": "Thinking Machine",
+    "image": "/images/shirt-thinkingmachine.jpg",
+    "description": "I bought this on my very first visit to Blue Genie Art Bazaar. I don't know what the R on the back signifies - perhaps it is an artist's mark.",
+    "color": "green",
+    "sleeves": "short",
+    "tag_array": ["indyartists", "computers"],
+    "archived": false
   }
 ]
