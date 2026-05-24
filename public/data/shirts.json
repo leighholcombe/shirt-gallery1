@@ -1508,5 +1508,175 @@
     "sleeves": "short",
     "tag_array": ["indyartists", "computers"],
     "archived": false
+  },
+  {
+    "id": 100152,
+    "title": "Acadia - Mt Deseret",
+    "image": "/images/shirt-acadiahorizontal.jpg",
+    "description": "Mt Deseret is the primary island of Acadia National Park in Maine.",
+    "color": "gray",
+    "sleeves": "short",
+    "tag_array": ["maine", "nationalparks"],
+    "archived": false
+  },
+  {
+    "id": 100153,
+    "title": "Acadia - Round",
+    "image": "/images/shirt-acadiacircle.jpg",
+    "description": "Acadia National Park is in Maine. There are lots of t-shirt shops in Bar Harbor.",
+    "color": "heather",
+    "sleeves": "short",
+    "tag_array": ["maine", "nationalparks"],
+    "archived": false
+  },
+  {
+    "id": 100154,
+    "title": "Alaskan Kolsch",
+    "image": "/images/shirt-alaskakolsch.jpg",
+    "description": "Back when I used to drink, Alaskan Kolsch was one of my favorite beers. So when I visited the Alaskan brewery in Juneau, I just had to get a shirt.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["alaska", "food", "animals"],
+    "archived": false
+  },
+  {
+    "id": 100155,
+    "title": "Freak Slug",
+    "image": "/images/shirt-freakslug.jpg",
+    "description": "I took my niece to a concert for one of her favorite bands, NewDad. The unannounced opener was a great British band called Freak Slug. For some reason, the headliner NewDad didn't have any shirts for sale. But Freak Slug had plenty of merch. So my niece and I both got matching shirts, and the singer signed both with a Sharpie. Totally collectible!",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": false
+  },
+  {
+    "id": 100156,
+    "title": "Joshua Tree",
+    "image": "/images/shirt-joshuatreetan.jpg",
+    "description": "Joshua Tree National Park is in the Southern California desert, near Palm Springs.",
+    "color": "tan",
+    "sleeves": "short",
+    "tag_array": ["california", "nationalparks"],
+    "archived": false
+  },
+  {
+    "id": 100157,
+    "title": "Home of the Weck",
+    "image": "/images/shirt-landoftheweck.jpg",
+    "description": "Land of the wings, home of the weck - aka Buffalo, NY.",
+    "color": "gray",
+    "sleeves": "short",
+    "tag_array": ["newyork", "animals", "food"],
+    "archived": false
+  },
+  {
+    "id": 100158,
+    "title": "American Laundromat",
+    "image": "/images/shirt-laundrywasher.jpg",
+    "description": "American Laundromat is an independent record company. I discovered them because they are releasing records by Juliana Hatfield.",
+    "color": "blue",
+    "sleeves": "short",
+    "tag_array": ["music", "brands"],
+    "archived": false
+  },
+  {
+    "id": 100159,
+    "title": "LEM",
+    "image": "/images/shirt-lunarmodule.jpg",
+    "description": "This shirt, which shows design specs for the Lunar Excursion Module, was purchased at the MIT book store in Boston, MA.",
+    "color": "darkblue",
+    "sleeves": "short",
+    "tag_array": ["computers"],
+    "archived": false
+  },
+  {
+    "id": 100160,
+    "title": "B's Music Shop",
+    "image": "/images/shirt-meowntpleasant.jpg",
+    "description": "I haven't been to B's Music Shop in Mt Pleasant, MI, but I ordered a couple pedals from them. They specialize in cat-themed products.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["music", "stores", "guitar", "animals"],
+    "archived": false
+  },
+  {
+    "id": 100161,
+    "title": "Moab Arch",
+    "image": "/images/shirt-moabarch.jpg",
+    "description": "Moab, UT is just a couple miles from Arches National Park.",
+    "color": "heather",
+    "sleeves": "short",
+    "tag_array": ["utah", "nationalparks"],
+    "archived": false
+  },
+  {
+    "id": 100162,
+    "title": "Pagan Mountaineering",
+    "image": "/images/shirt-pagan.jpg",
+    "description": "Pagan Mountaineering is an outdoor recreation store in Moab, UT. I didn't buy anything there, because I was well supplied for my journey, but I just had to have a shirt that said 'Pagan' to take back to Texas.",
+    "color": "green",
+    "sleeves": "short",
+    "tag_array": ["utah", "stores", "animals"],
+    "archived": false
+  },
+  {
+    "id": 100163,
+    "title": "Quebec, Canada",
+    "image": "/images/shirt-quebecbeaver.jpg",
+    "description": "Such a cute beaver shirt that I found in Quebec City.",
+    "color": "darkblue",
+    "sleeves": "short",
+    "tag_array": ["canada", "animals"],
+    "archived": false
+  },
+  {
+    "id": 100164,
+    "title": "Rat Bones",
+    "image": "/images/shirt-ratbones.jpg",
+    "description": "Iconic Powell Peralta skateboard logo from the 80s. Punk rockers and metalheads alike comment on this shirt. For some reason, it's a little bit oversized.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["surfskate", "brands"],
+    "archived": false
+  },
+  {
+    "id": 100165,
+    "title": "Safety Third",
+    "image": "/images/shirt-safetythird.jpg",
+    "description": "This is one of those shirts that you can find all over the country with localized printing. I found mine in Cloudcroft, NM.",
+    "color": "gray",
+    "sleeves": "short",
+    "tag_array": ["newmexico", "animals"],
+    "archived": false
+  },
+  {
+    "id": 100166,
+    "title": "The Surfrajettes",
+    "image": "/images/shirt-surfblackgreen.jpg",
+    "description": "I've seen The Surfrajettes a couple times. They're a great surf rock band from Toronto.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": false
+  },
+  {
+    "id": 100167,
+    "title": "The Sink",
+    "image": "/images/shirt-thesink.jpg",
+    "description": "The Sink is a famous bar and restaurant in Boulder, CO. I used to hang out there when I was in college, and I try to eat there every time I go back.",
+    "color": "heather",
+    "sleeves": "short",
+    "tag_array": ["colorado", "food"],
+    "archived": false
+  },
+  {
+    "id": 100168,
+    "title": "Thunderbird and Orca",
+    "image": "/images/shirt-thunderbirdorca.jpg",
+    "description": "I love Pacific Coast Native American art. This design, showing a thunderbird and an orca whale, is from a Haida artist. This shirt was purchased at the Sealaska Heritage Museum shop.",
+    "color": "red",
+    "sleeves": "short",
+    "tag_array": ["nativeamerican", "animals", "pacificnorthwest"],
+    "archived": false
   }
 ]
