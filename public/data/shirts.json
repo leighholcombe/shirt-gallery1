@@ -1678,5 +1678,125 @@
     "sleeves": "short",
     "tag_array": ["nativeamerican", "animals", "pacificnorthwest"],
     "archived": false
+  },
+  {
+    "id": 100169,
+    "title": "Black Canyon",
+    "image": "/images/shirt-blackcanyonblue.jpg",
+    "description": "Black Canyon of the Gunnison was a National Monument the first time I visited, but now it's a National Park.",
+    "color": "blue",
+    "sleeves": "short",
+    "tag_array": ["nationalparks", "colorado"],
+    "archived": false
+  },
+  {
+    "id": 100170,
+    "title": "Blushing",
+    "image": "/images/shirt-blushingrider.jpg",
+    "description": "I don't know where the band Blushin found this graphic, but it looks like some kind of Frank Frazetta fantasy scene.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": false
+  },
+  {
+    "id": 100171,
+    "title": "Colorado Death Star",
+    "image": "/images/shirt-codeathstar.jpg",
+    "description": "It's kinda like the Colorado flag, but instead of a boring yellow sun, it's a yellow Death Star. I don't quite get it, but I like it.",
+    "color": "darkblue",
+    "sleeves": "short",
+    "tag_array": ["colorado", "starwars", "parody"],
+    "archived": false
+  },
+  {
+    "id": 100172,
+    "title": "ESP Guitars",
+    "image": "/images/shirt-espguitars.jpg",
+    "description": "ESP is a Japanese guitar maker. I have three of their instruments, and I love them.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["music", "guitar", "brands"],
+    "archived": false
+  },
+  {
+    "id": 100173,
+    "title": "Guadalupe Mountains",
+    "image": "/images/shirt-guadalupenp.jpg",
+    "description": "Guadalupe Mountains National Park protects a significant mountain group near the Texas and New Mexico border. Carlsbad Caverns is actually part of the same topographic feature.",
+    "color": "teal",
+    "sleeves": "short",
+    "tag_array": ["nationalparks", "texas"],
+    "archived": false
+  },
+  {
+    "id": 100174,
+    "title": "Hangry",
+    "image": "/images/shirt-hangry.jpg",
+    "description": "Nobody gets more hungry/angry than a bear. Found in Breckenridge, CO.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["colorado", "animals"],
+    "archived": false
+  },
+  {
+    "id": 100175,
+    "title": "Hatchie",
+    "image": "/images/shirt-hatchie.jpg",
+    "description": "Hatchie is an indie-pop group from Australia.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": false
+  },
+  {
+    "id": 100176,
+    "title": "Kraftwerk Autobahn",
+    "image": "/images/shirt-kraftwerkauto.jpg",
+    "description": "Kraftwerk was a groundbreaking electronic music group from Germany. They played a retirement concert in 2025, where I got two shirts and a skateboard deck. This one celebrates their love for the rhythms of the highway in Germany.",
+    "color": "blue",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": false
+  },
+  {
+    "id": 100177,
+    "title": "Kraftwerk TEE",
+    "image": "/images/shirt-kraftwerktee.jpg",
+    "description": "Kraftwerk was a groundbreaking electronic music group from Germany. They played a retirement concert in 2025, where I got two shirts and a skateboard deck. This one celebrates their love for the Trans Europe Express (TEE) train.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": false
+  },
+  {
+    "id": 100178,
+    "title": "Oregon Coast",
+    "image": "/images/shirt-oregoncoast.jpg",
+    "description": "Not much to say, except that I love the Oregon Coast.",
+    "color": "heather",
+    "sleeves": "short",
+    "tag_array": ["oregon", "pacificnorthwest"],
+    "archived": false
+  },
+  {
+    "id": 100179,
+    "title": "Pelican Brewing",
+    "image": "/images/shirt-pelicanbrewing.jpg",
+    "description": "There are a bunch of different Pelican Bewing locations on the Oregon Coast. I've eaten at two: Lincoln City and Cannon Beach. Bought this shirt in Cannon Beach.",
+    "color": "darkblue",
+    "sleeves": "short",
+    "tag_array": ["oregon", "food", "pacificnorthwest"],
+    "archived": false
+  },
+  {
+    "id": 100180,
+    "title": "Bird with Headphones",
+    "image": "/images/shirt-swedenbird.jpg",
+    "description": "This shirt came from a pop-up shop in Stockholm, which was selling merch from a single artist. I like it.",
+    "color": "red",
+    "sleeves": "short",
+    "tag_array": ["indyartists", "sweden", "animals", "music"],
+    "archived": false
   }
 ]
