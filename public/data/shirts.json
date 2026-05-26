@@ -1401,7 +1401,7 @@
   },
   {
     "id": 100141,
-    "title": "Belly King",
+    "title": "Belly - King",
     "image": "/images/shirt-bellyking30.jpg",
     "description": "One of my favorite albums from one of my favorite bands turned 30 in 2025, and the band did a short tour to remind us. The Austin show was the day before my birthday.",
     "color": "black",
@@ -1797,6 +1797,376 @@
     "color": "red",
     "sleeves": "short",
     "tag_array": ["indyartists", "sweden", "animals", "music"],
+    "archived": false
+  },
+  {
+    "id": 100181,
+    "title": "The 5-6-7-8's",
+    "image": "/images/shirt-5678s.jpg",
+    "description": "The 5-6-7-8's are an old-style rock trio from Japan, famously featured in the Quentin Tarantino film 'Kill Bill'.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": false
+  },
+  {
+    "id": 100182,
+    "title": "Alfred University",
+    "image": "/images/shirt-alfredu.jpg",
+    "description": "Alfred is a tiny college in Western New York that my niece attends. I've been to the campus three times so far.",
+    "color": "purple",
+    "sleeves": "short",
+    "tag_array": ["newyork", "sports"],
+    "archived": false
+  },
+  {
+    "id": 100183,
+    "title": "Alpenglow",
+    "image": "/images/shirt-breckalpenglow.jpg",
+    "description": "A shirt depicting the sunset and post-sunset beauty of Breckenridge, CO.",
+    "color": "darkblue",
+    "sleeves": "short",
+    "tag_array": ["colorado", "animals"],
+    "archived": false
+  },
+  {
+    "id": 100184,
+    "title": "Breckenridge",
+    "image": "/images/shirt-brecktan.jpg",
+    "description": "Mountains are pretty awesome, and there are a lot of them near Breckenridge, CO.",
+    "color": "tan",
+    "sleeves": "short",
+    "tag_array": ["colorado"],
+    "archived": false
+  },
+  {
+    "id": 100185,
+    "title": "The Breeders",
+    "image": "/images/shirt-breedersblack.jpg",
+    "description": "The Breeders were a 90s band that I first saw at Lollapalooza.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": false
+  },
+  {
+    "id": 100186,
+    "title": "Bryce Canyon",
+    "image": "/images/shirt-brycegreen.jpg",
+    "description": "Bryce Canyon National Park is in Utah. My last visit was in January, and there was snow in the canyon.",
+    "color": "green",
+    "sleeves": "short",
+    "tag_array": ["nationalparks", "utah"],
+    "archived": false
+  },
+  {
+    "id": 100187,
+    "title": "Cake Like",
+    "image": "/images/shirt-cakelike.jpg",
+    "description": "I didn't hear about indy rock band from the 90s Cake Like until recently. Kerry Kinney from 'The State' and 'Reno 911' was the singer.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": false
+  },
+  {
+    "id": 100188,
+    "title": "Canyonlands",
+    "image": "/images/shirt-canyonlands.jpg",
+    "description": "Canyonlands National Park is in Utah.",
+    "color": "brown",
+    "sleeves": "short",
+    "tag_array": ["nationalparks", "utah"],
+    "archived": false
+  },
+  {
+    "id": 100189,
+    "title": "Exodus",
+    "image": "/images/shirt-exodusbay.jpg",
+    "description": "Bay Strikes Back was a post-COVID tour featuring Testament, Death Angel, and Exodus. I saw the show at The Summit in Denver.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": false
+  },
+  {
+    "id": 100190,
+    "title": "Dark Seas",
+    "image": "/images/shirt-darkseas.jpg",
+    "description": "Never heard of this brand, but I found the shirt at Sun Diego in Carlsbad, CA.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["surfskate", "brands"],
+    "archived": false
+  },
+  {
+    "id": 100191,
+    "title": "Glacier Bay",
+    "image": "/images/shirt-glacierbay.jpg",
+    "description": "Glacier Bay is one of the easiest National Parks to get to, if you're on an Alaskan cruise. Otherwise, its remote location in SE Alaska presents considerable logistical difficulties.",
+    "color": "darkblue",
+    "sleeves": "short",
+    "tag_array": ["nationalparks", "alaska"],
+    "archived": false
+  },
+  {
+    "id": 100192,
+    "title": "Go Buffs",
+    "image": "/images/shirt-gobuffs.jpg",
+    "description": "I attended the University of Colorado back in the 1900s.",
+    "color": "white",
+    "sleeves": "short",
+    "tag_array": ["colorado", "sports", "animals"],
+    "archived": false
+  },
+  {
+    "id": 100193,
+    "title": "Heritage Coffee",
+    "image": "/images/shirt-heritagecoffee.jpg",
+    "description": "For reasons that weren't exactly clear, there are no Starbucks in Juneau, Alaska. Instead, locals and tourists get to enjoy Heritage Coffee, locally roasted right at the pier. Their Lodge Blend is one of the best coffees I've ever tasted.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["alaska", "food", "animals"],
+    "archived": false
+  },
+  {
+    "id": 100194,
+    "title": "Hi-Tide",
+    "image": "/images/shirt-hitideblue.jpg",
+    "description": "Hi-Tide is a surf record label from New Jersey.",
+    "color": "darkblue",
+    "sleeves": "short",
+    "tag_array": ["music"],
+    "archived": false
+  },
+  {
+    "id": 100195,
+    "title": "Humble Pint",
+    "image": "/images/shirt-humblepint.jpg",
+    "description": "Humble Pint was a brewery operated by some of my friends in Leander, TX. They cashed out a couple years ago and moved to St. Louis.",
+    "color": "heather",
+    "sleeves": "short",
+    "tag_array": ["texas", "food"],
+    "archived": false
+  },
+  {
+    "id": 100196,
+    "title": "Jawbreaker",
+    "image": "/images/shirt-jawbreakersalt.jpg",
+    "description": "I had this shirt when I was in college, right after the band broke up. They got back together on an old-guys-cash-in tour, and I've now seen them twice in Austin.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": false
+  },
+  {
+    "id": 100197,
+    "title": "Joshua Tree",
+    "image": "/images/shirt-joshuatreegray.jpg",
+    "description": "Joshua Tree National Park is in the Southern California desert, near Palm Springs.",
+    "color": "gray",
+    "sleeves": "short",
+    "tag_array": ["nationalparks", "california"],
+    "archived": false
+  },
+  {
+    "id": 100198,
+    "title": "Lassen Volcanic",
+    "image": "/images/shirt-lassengray.jpg",
+    "description": "Lassen Volcanic is an underrated National Park in California.",
+    "color": "heather",
+    "sleeves": "short",
+    "tag_array": ["nationalparks", "california"],
+    "archived": false
+  },
+  {
+    "id": 100199,
+    "title": "Lassen Volcanic",
+    "image": "/images/shirt-lassenpurple.jpg",
+    "description": "Lassen Volcanic is an underrated National Park in California.",
+    "color": "purple",
+    "sleeves": "short",
+    "tag_array": ["nationalparks", "california"],
+    "archived": false
+  },
+  {
+    "id": 100200,
+    "title": "Lofoten",
+    "image": "/images/shirt-lofotenrainbow.jpg",
+    "description": "Lofoten is an archipelago and a National Park in Norway.",
+    "color": "blue",
+    "sleeves": "short",
+    "tag_array": ["norway"],
+    "archived": false
+  },
+  {
+    "id": 100201,
+    "title": "Iron Maiden",
+    "image": "/images/shirt-maidenkillers.jpg",
+    "description": "Iron Maiden is a legendary British heavy metal band. This is the artwork from their second album 'Killers', not sure why it doesn't say so.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": false
+  },
+  {
+    "id": 100202,
+    "title": "Maine Birds",
+    "image": "/images/shirt-mainebirds.jpg",
+    "description": "There are dozens of t-shirt shops in Bar Harbor, I shopped at all of them.",
+    "color": "green",
+    "sleeves": "short",
+    "tag_array": ["maine"],
+    "archived": false
+  },
+  {
+    "id": 100203,
+    "title": "Maine Flag",
+    "image": "/images/shirt-maineflag.jpg",
+    "description": "The history of this flag is fascinating. This was the official flag from 1901 to 1909. Then in 2024, there was a legislative push to bring back a version of this flag. Unfortunately, it didn't pass, so Maine has to live with a silly coat-of-arms style flag. Purchased this shirt in Portland, ME.",
+    "color": "green",
+    "sleeves": "short",
+    "tag_array": ["maine"],
+    "archived": false
+  },
+  {
+    "id": 100204,
+    "title": "Raven Moon",
+    "image": "/images/shirt-moonraven.jpg",
+    "description": "I love Pacific Coast Native American art. This design, showing a raven and the moon, is from a Haida artist. This shirt was purchased at the Sealaska Heritage Museum shop.",
+    "color": "darkblue",
+    "sleeves": "short",
+    "tag_array": ["nativeamerican", "pacificnorthwest", "animals"],
+    "archived": false
+  },
+  {
+    "id": 100205,
+    "title": "Niagara Falls",
+    "image": "/images/shirt-niagarafalls.jpg",
+    "description": "The Canadian side of Niagara Falls is much more impressive than the American side. And you can just walk over there if you have a passport.",
+    "color": "darkblue",
+    "sleeves": "short",
+    "tag_array": ["canada"],
+    "archived": false
+  },
+  {
+    "id": 100206,
+    "title": "Norrøna",
+    "image": "/images/shirt-norrona.jpg",
+    "description": "Norrøna is a Norwegian outdoor brand, kinda like Patagonia or The North Face in the US.",
+    "color": "white",
+    "sleeves": "short",
+    "tag_array": ["norway", "brands"],
+    "archived": false
+  },
+  {
+    "id": 100207,
+    "title": "Classic Computer",
+    "image": "/images/shirt-oldecomputer.jpg",
+    "description": "This design, from an Austin independent artist, looks like the kind of computers that the Pentagon would have used to plan a missile launch in the early 60s.",
+    "color": "gray",
+    "sleeves": "short",
+    "tag_array": ["computers", "indyartists"],
+    "archived": false
+  },
+  {
+    "id": 100208,
+    "title": "Petrified Forest",
+    "image": "/images/shirt-petrifiedforest.jpg",
+    "description": "Petrified Forest is a National Park in Arizona, adjacent to the Painted Desert.",
+    "color": "gray",
+    "sleeves": "short",
+    "tag_array": ["arizona", "nationalparks"],
+    "archived": false
+  },
+  {
+    "id": 100209,
+    "title": "Poutine",
+    "image": "/images/shirt-poutine.jpg",
+    "description": "The World's Fair known as Expo 67 took place in Montreal, and a lot of the city's identity is tied to that event. Apparently, poutine was 28¢ back then.",
+    "color": "heather",
+    "sleeves": "short",
+    "tag_array": ["canada", "food"],
+    "archived": false
+  },
+  {
+    "id": 100210,
+    "title": "Selena",
+    "image": "/images/shirt-selena.jpg",
+    "description": "Selena was a popular Hispanic-American singer who was tragically killed in the 90s. Slayer is a thrash metal band known for its logo featuring crossed swords in a pentagram, and its distinctive typeface. Designed by an Austin artist.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["music", "bands", "parody", "indyartists"],
+    "archived": false
+  },
+  {
+    "id": 100211,
+    "title": "Instant Shoegaze",
+    "image": "/images/shirt-shoegazepedal.jpg",
+    "description": "Oh, if only there was a single effects pedal that you could stomp to make shoegaze. I'd buy it in a second. Or would I?",
+    "color": "purple",
+    "sleeves": "short",
+    "tag_array": ["music", "guitar"],
+    "archived": false
+  },
+  {
+    "id": 100212,
+    "title": "Seaweed - Spanaway",
+    "image": "/images/shirt-spanaway.jpg",
+    "description": "Seaweed was a punk band from Tacoma. This is the cover of their 1995 album 'Spanaway'.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": false
+  },
+  {
+    "id": 100213,
+    "title": "The Surfrajettes",
+    "image": "/images/shirt-surfrajettescream.jpg",
+    "description": "I've seen The Surfrajettes a couple times. They're a great surf rock band from Toronto.",
+    "color": "white",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": false
+  },
+  {
+    "id": 100214,
+    "title": "Meatballs for the People",
+    "image": "/images/shirt-swedishmeatballs.jpg",
+    "description": "Of course you have to have Swedish meatballs when you go to Sweden. The first place we ate in Stockholm had great traditional meatballs, which seemed custom-designed to delight tourists who love eating lunch at IKEA.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["sweden", "food"],
+    "archived": false
+  },
+  {
+    "id": 100215,
+    "title": "Tillamook Mozzarella",
+    "image": "/images/shirt-tillamookmozz.jpg",
+    "description": "Tillamook Dairy is a prominent feature of the Oregon Coast, and their yogurts and cheeses are delicious",
+    "color": "gre",
+    "sleeves": "short",
+    "tag_array": ["oregon", "food", "pacificnorthwest"],
+    "archived": false
+  },
+  {
+    "id": 100216,
+    "title": "Vermont Woods",
+    "image": "/images/shirt-vermontwoods.jpg",
+    "description": "There's a shop in Burlington, VT that sells t-shirts designed by local artists. This one shows an isolated cabin in the woods.",
+    "color": "gray",
+    "sleeves": "short",
+    "tag_array": ["vermont", "indyartists"],
+    "archived": false
+  },
+  {
+    "id": 100217,
+    "title": "White Sands",
+    "image": "/images/shirt-whitesands.jpg",
+    "description": "White Sands was a National Monument the first time I visited. Now it is a National Park. This design looks suspiciously like a Pokeball.",
+    "color": "red",
+    "sleeves": "short",
+    "tag_array": ["newmexico", "nationalparks"],
     "archived": false
   }
 ]
