@@ -73,5 +73,10 @@
     "name": "Heather Gray",
     "value": "heather",
     "class": "zinc-800"
+  },
+  {
+    "name": "Off-White",
+    "value": "offwhite",
+    "class": "amber-100"
   }
 ]

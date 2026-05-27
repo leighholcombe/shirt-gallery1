@@ -36,10 +36,6 @@
     "value": "california"
   },
   {
-    "name": "Nevada",
-    "value": "nevada"
-  },
-  {
     "name": "Switzerland",
     "value": "switzerland"
   },
@@ -222,5 +218,13 @@
   {
     "name": "Vermont",
     "value": "vermont"
+  },
+  {
+    "name": "Nevada",
+    "value": "nevada"
+  },
+  {
+    "name": "State Parks",
+    "value": "stateparks"
   }
 ]

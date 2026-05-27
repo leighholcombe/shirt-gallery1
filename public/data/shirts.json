@@ -134,7 +134,7 @@
     "title": "Blushing OG",
     "image": "/images/shirt-blushingoriginal.jpg",
     "description": "The original shirt design for the Austin shoegaze band Blushing.",
-    "color": "white",
+    "color": "offwhite",
     "sleeves": "short",
     "tag_array": ["music", "bands"],
     "archived": true
@@ -344,7 +344,7 @@
     "title": "The Swell",
     "image": "/images/shirt-theswell.jpg",
     "description": "The Swell was an email newsletter from Hi-Tide Recordings, a surf label from New Jersey.",
-    "color": "tan",
+    "color": "offwhite",
     "sleeves": "short",
     "tag_array": ["brands"],
     "archived": true
@@ -1204,7 +1204,7 @@
     "title": "Guadalupe Mountains Dri",
     "image": "/images/shirt-guadalupedri.jpg",
     "description": "Guadalupe Mountains National Park is in Texas.",
-    "color": "white",
+    "color": "offwhite",
     "sleeves": "short",
     "tag_array": ["nationalparks", "texas", "drifit"],
     "archived": false
@@ -1476,7 +1476,7 @@
     "description": "Silver Falls State Park, which is famous for its waterfalls, is located a few miles east of Salem, Oregon.",
     "color": "olive",
     "sleeves": "short",
-    "tag_array": ["oregon", "pacificnorthwest"],
+    "tag_array": ["oregon", "pacificnorthwest", "stateparks"],
     "archived": false
   },
   {
@@ -2124,7 +2124,7 @@
     "title": "The Surfrajettes",
     "image": "/images/shirt-surfrajettescream.jpg",
     "description": "I've seen The Surfrajettes a couple times. They're a great surf rock band from Toronto.",
-    "color": "white",
+    "color": "offwhite",
     "sleeves": "short",
     "tag_array": ["music", "bands"],
     "archived": false
@@ -2167,6 +2167,186 @@
     "color": "red",
     "sleeves": "short",
     "tag_array": ["newmexico", "nationalparks"],
+    "archived": false
+  },
+  {
+    "id": 100218,
+    "title": "Aquabats",
+    "image": "/images/shirt-aquabats.jpg",
+    "description": "I had seen The Aquabats in concert before, but that was before they made a children's TV show and become quite popular with kids. The second time I saw them was one of the most wholesome things I've ever seen.",
+    "color": "blue",
+    "sleeves": "short",
+    "tag_array": ["music", "bands", "surfskate"],
+    "archived": false
+  },
+  {
+    "id": 100219,
+    "title": "Bear Deer",
+    "image": "/images/shirt-beardeer.jpg",
+    "description": "It sometimes takes people a few minutes to get what's going on in this shirt, but when they do, they love it.",
+    "color": "red",
+    "sleeves": "short",
+    "tag_array": ["colorado", "animals"],
+    "archived": false
+  },
+  {
+    "id": 100220,
+    "title": "Black Canyon",
+    "image": "/images/shirt-blackcanyongreen.jpg",
+    "description": "Black Canyon of the Gunnison was a National Monument the first time I visited, but now it's a National Park.",
+    "color": "green",
+    "sleeves": "short",
+    "tag_array": ["colorado", "nationalparks"],
+    "archived": false
+  },
+  {
+    "id": 100221,
+    "title": "Black Fountain",
+    "image": "/images/shirt-blackfountain.jpg",
+    "description": "Black Fountain is an oil can delay pedal made by Old Blood Noise Endeavors.",
+    "color": "orange",
+    "sleeves": "short",
+    "tag_array": ["music", "guitar"],
+    "archived": false
+  },
+  {
+    "id": 100222,
+    "title": "Bocce Club",
+    "image": "/images/shirt-bocceclub.jpg",
+    "description": "Bocce Club is a pizza and wings restaurant in Buffalo, NY. They cycle through t-shirt designs quickly, so each one becomes almost a collectible item.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["newyork", "food"],
+    "archived": false
+  },
+  {
+    "id": 100223,
+    "title": "The Breeders",
+    "image": "/images/shirt-breedersred.jpg",
+    "description": "The Breeders were a 90s band that I first saw at Lollapalooza. But this shirt is from their 21st century cash-in tour.",
+    "color": "red",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": false
+  },
+  {
+    "id": 100224,
+    "title": "Fender Guitars",
+    "image": "/images/shirt-fenderla.jpg",
+    "description": "Fender is an iconic guitar manufacturer, proudly headquartered in California.",
+    "color": "offwhite",
+    "sleeves": "short",
+    "tag_array": ["guitar", "music", "california"],
+    "archived": false
+  },
+  {
+    "id": 100225,
+    "title": "Gorges Beer Co",
+    "image": "/images/shirt-gorges.jpg",
+    "description": "There are a couple brewery/restaurants in Cascade Locks, OR, and Gorges has a better vibe and a better food menu than the other ones.",
+    "color": "offwhite",
+    "sleeves": "short",
+    "tag_array": ["oregon", "pacificnorthwest", "food"],
+    "archived": false
+  },
+  {
+    "id": 100226,
+    "title": "Great Basic",
+    "image": "/images/shirt-greatbasin.jpg",
+    "description": "Great Basin is an extremely remote stretch of mountains in Nevada. One of the most under-appreciated National Parks.",
+    "color": "gray",
+    "sleeves": "short",
+    "tag_array": ["nevada", "nationalparks"],
+    "archived": false
+  },
+  {
+    "id": 100227,
+    "title": "Legoland, CA",
+    "image": "/images/shirt-legoland.jpg",
+    "description": "Only in California would the t-shirts at Legoland all be manufactured by popular surf brand Quicksilver.",
+    "color": "white",
+    "sleeves": "short",
+    "tag_array": ["california", "surfskate"],
+    "archived": false
+  },
+  {
+    "id": 100228,
+    "title": "Letchworth State Park",
+    "image": "/images/shirt-letchworth.jpg",
+    "description": "Letchworth State Park is a gorge of the Genesee River in Western New York.",
+    "color": "blue",
+    "sleeves": "short",
+    "tag_array": ["newyork", "stateparks"],
+    "archived": false
+  },
+  {
+    "id": 100229,
+    "title": "Acadia Cone",
+    "image": "/images/shirt-mainecone.jpg",
+    "description": "Yet another shirt from the t-shirt shops of Bar Harbor, ME.",
+    "color": "green",
+    "sleeves": "short",
+    "tag_array": ["maine", "nationalparks"],
+    "archived": false
+  },
+  {
+    "id": 100230,
+    "title": "REI",
+    "image": "/images/shirt-reigray.jpg",
+    "description": "REI is an outdoor clothing store.",
+    "color": "gray",
+    "sleeves": "short",
+    "tag_array": ["stores", "brands"],
+    "archived": false
+  },
+  {
+    "id": 100231,
+    "title": "Roots",
+    "image": "/images/shirt-rootsgreen.jpg",
+    "description": "Roots is a lifestyle brand from Canada. This beaver illustration is their primary logo.",
+    "color": "green",
+    "sleeves": "short",
+    "tag_array": ["canada", "animals", "brands"],
+    "archived": false
+  },
+  {
+    "id": 100232,
+    "title": "Sploosh",
+    "image": "/images/shirt-sploosh.jpg",
+    "description": "In The Legend of Zelda: The Windwaker video game, there's a mini-game that involves shooting squids with a cannon. The game is narrated with exactly two words: 'Sploosh' for a miss, and 'Kaboom!' for a hit.",
+    "color": "blue",
+    "sleeves": "short",
+    "tag_array": ["videogames"],
+    "archived": false
+  },
+  {
+    "id": 100233,
+    "title": "Sub Pop Seahawks",
+    "image": "/images/shirt-subpopseahawks.jpg",
+    "description": "This Sub Pop shirt is not actually a collaboration with the Seattle Seahawks NFL team, but why else would they use those colors?",
+    "color": "heather",
+    "sleeves": "short",
+    "tag_array": ["music", "pacificnorthwest", "sports"],
+    "archived": false
+  },
+  {
+    "id": 100234,
+    "title": "Sun Diego",
+    "image": "/images/shirt-sundiego.jpg",
+    "description": "Sun Diego is a large surfstyle clothing store in the San Diego area. I visited the Carlsbad location.",
+    "color": "offwhite",
+    "sleeves": "short",
+    "tag_array": ["california", "surfskate", "stores"],
+    "archived": false
+  },
+  {
+    "id": 100235,
+    "title": "The Surfrajettes",
+    "image": "/images/shirt-surfrajettespie.jpg",
+    "description": "The Surfrajettes album 'Easy as Pie' has kind of a diner theme, so depicting a diner in their hometown of Toronto makes perfect sense.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["music", "bands", "canada"],
     "archived": false
   }
 ]
