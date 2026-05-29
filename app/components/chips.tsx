@@ -6,6 +6,7 @@ export default async function Chips(props: PageProps<any>) {
   if (!Array.isArray(tags)) {
     return <p>No tags available.</p>;
   }
+  // const clone = [...tags];
   const searchParams = await props.searchParams;
   const cat = searchParams.cat;
 

@@ -226,5 +226,13 @@
   {
     "name": "State Parks",
     "value": "stateparks"
+  },
+  {
+    "name": "Architecture",
+    "value": "architecture"
+  },
+  {
+    "name": "Transportation",
+    "value": "transportation"
   }
 ]

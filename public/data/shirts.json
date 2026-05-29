@@ -276,7 +276,7 @@
     "description": "I knew it was too small, but I loved the design and wanted to make sure I got something from Redwoods.",
     "color": "olive",
     "sleeves": "short",
-    "tag_array": ["nationalparks", "california", "pacificnorthwest"],
+    "tag_array": ["nationalparks", "california", "pacificnorthwest", "transportation"],
     "archived": true
   },
   {
@@ -426,7 +426,7 @@
     "description": "The iconic waterfront buildings of Bergen, Norway.",
     "color": "olive",
     "sleeves": "short",
-    "tag_array": ["norway"],
+    "tag_array": ["norway", "architecture"],
     "archived": true
   },
   {
@@ -1136,7 +1136,7 @@
     "description": "One of the most unique long-sleeved designs I have seen - the long and flat part of the Astoria-Megler Bridge extends onto the arm of the shirt.",
     "color": "heather",
     "sleeves": "long",
-    "tag_array": ["oregon", "pacificnorthwest", "longsleeved"],
+    "tag_array": ["oregon", "pacificnorthwest", "longsleeved", "transportation"],
     "archived": false
   },
   {
@@ -1756,7 +1756,7 @@
     "description": "Kraftwerk was a groundbreaking electronic music group from Germany. They played a retirement concert in 2025, where I got two shirts and a skateboard deck. This one celebrates their love for the rhythms of the highway in Germany.",
     "color": "blue",
     "sleeves": "short",
-    "tag_array": ["music", "bands"],
+    "tag_array": ["music", "bands", "transportation"],
     "archived": false
   },
   {
@@ -1766,7 +1766,7 @@
     "description": "Kraftwerk was a groundbreaking electronic music group from Germany. They played a retirement concert in 2025, where I got two shirts and a skateboard deck. This one celebrates their love for the Trans Europe Express (TEE) train.",
     "color": "black",
     "sleeves": "short",
-    "tag_array": ["music", "bands"],
+    "tag_array": ["music", "bands", "transportation"],
     "archived": false
   },
   {
@@ -2143,10 +2143,10 @@
     "id": 100215,
     "title": "Tillamook Mozzarella",
     "image": "/images/shirt-tillamookmozz.jpg",
-    "description": "Tillamook Dairy is a prominent feature of the Oregon Coast, and their yogurts and cheeses are delicious",
+    "description": "Tillamook Dairy is a prominent feature of the Oregon Coast, and their yogurts and cheeses are delicious.",
     "color": "gre",
     "sleeves": "short",
-    "tag_array": ["oregon", "food", "pacificnorthwest"],
+    "tag_array": ["oregon", "food", "pacificnorthwest", "brands"],
     "archived": false
   },
   {
@@ -2346,7 +2346,307 @@
     "description": "The Surfrajettes album 'Easy as Pie' has kind of a diner theme, so depicting a diner in their hometown of Toronto makes perfect sense.",
     "color": "black",
     "sleeves": "short",
-    "tag_array": ["music", "bands", "canada"],
+    "tag_array": ["music", "bands", "canada", "architecture"],
+    "archived": false
+  },
+  {
+    "id": 100236,
+    "title": "The Last Frontier",
+    "image": "/images/shirt-alaskafrontier.jpg",
+    "description": "Alaska sometimes refers to itself as 'The Last Frontier'. Which makes sense.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["alaska"],
+    "archived": false
+  },
+  {
+    "id": 100237,
+    "title": "ALR Kitty",
+    "image": "/images/shirt-alrkitty.jpg",
+    "description": "American Laundromat is an independent record company. I discovered them because they are releasing records by Juliana Hatfield.",
+    "color": "red",
+    "sleeves": "short",
+    "tag_array": ["music", "brands", "animals"],
+    "archived": false
+  },
+  {
+    "id": 100238,
+    "title": "ALR Trailer",
+    "image": "/images/shirt-alrtrailer.jpg",
+    "description": "American Laundromat is an independent record company. I discovered them because they are releasing records by Juliana Hatfield.",
+    "color": "green",
+    "sleeves": "short",
+    "tag_array": ["music", "brands", "transportation"],
+    "archived": false
+  },
+  {
+    "id": 100239,
+    "title": "Blushing - Control",
+    "image": "/images/shirt-blushingcontrol.jpg",
+    "description": "This Blushing shirt quotes from the band's song 'Control'.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": false
+  },
+  {
+    "id": 100240,
+    "title": "Chamonix",
+    "image": "/images/shirt-chamonixmarmot.jpg",
+    "description": "I'm a big fan of marmots, so when I saw this one headed out cross country skiing at a shop in Chamonix in the French Alps, I had to get it",
+    "color": "darkblue",
+    "sleeves": "short",
+    "tag_array": ["france", "animals", "sports"],
+    "archived": false
+  },
+  {
+    "id": 100241,
+    "title": "Check Your Head",
+    "image": "/images/shirt-checkyourhead.jpg",
+    "description": "Even though we saw Beastie Boys landmarks like Paul's Boutique in NYC, I bought this shirt at a record store in Philly. I listened to this album a lot when it first came out.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": false
+  },
+  {
+    "id": 100242,
+    "title": "Chinatown",
+    "image": "/images/shirt-chinatown.jpg",
+    "description": "No visit to NYC is complete without a little shopping in Chinatown. I bought my niece the exact same shirt for her birthday.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["newyork"],
+    "archived": false
+  },
+  {
+    "id": 100243,
+    "title": "Colorado Flag",
+    "image": "/images/shirt-coloradogreen.jpg",
+    "description": "It's the Colorado flag, but on an olive green background instead of blue.",
+    "color": "olive",
+    "sleeves": "short",
+    "tag_array": ["colorado"],
+    "archived": false
+  },
+  {
+    "id": 100244,
+    "title": "Craters of the Moon",
+    "image": "/images/shirt-cratersofthemoon.jpg",
+    "description": "Craters of the Moon is a National Monument in Idaho consisting of a volcanic landscape. It's also the name of the street I live on.",
+    "color": "green",
+    "sleeves": "short",
+    "tag_array": ["idaho", "nationalparks"],
+    "archived": false
+  },
+  {
+    "id": 100245,
+    "title": "Earthquaker Devices",
+    "image": "/images/shirt-earthquaker.jpg",
+    "description": "Earthquaker Devices is a guitar effects company. I have a bunch of their pedals.",
+    "color": "blue",
+    "sleeves": "short",
+    "tag_array": ["music", "guitar", "animals"],
+    "archived": false
+  },
+  {
+    "id": 100246,
+    "title": "Eastern State Penitentiary",
+    "image": "/images/shirt-easternstate.jpg",
+    "description": "Eastern State Penitentiary is one of the oldest prisons in America. It started as a Quaker isolation prison in colonial times, but became a more traditional prison after it was determined that isolation was terrible for prisoners. It is now abandoned and operated as a museum in Philadelphia.",
+    "color": "green",
+    "sleeves": "short",
+    "tag_array": ["pennsylvania", "architecture", "politics"],
+    "archived": false
+  },
+  {
+    "id": 100247,
+    "title": "Empire Squirrel",
+    "image": "/images/shirt-empiresquirrel.jpg",
+    "description": "A squirrel climbing up the Empire State Building - what better gift for me? Purchased by my secret Santa at Chelsea Market in NYC.",
+    "color": "gray",
+    "sleeves": "short",
+    "tag_array": ["animals", "newyork", "architecture"],
+    "archived": false
+  },
+  {
+    "id": 100248,
+    "title": "Fjällraven",
+    "image": "/images/shirt-fjallravengray.jpg",
+    "description": "Fjällraven is a Swedish outdoor brand that has recently become quite popular in the US. I visited their flagship store in Stockholm, but they didn't have the shirt I wanted, so I bought this one at the flagship store in Oslo.",
+    "color": "gray",
+    "sleeves": "short",
+    "tag_array": ["brands", "animals", "sweden"],
+    "archived": false
+  },
+  {
+    "id": 100249,
+    "title": "In the Forest",
+    "image": "/images/shirt-greenforest.jpg",
+    "description": "I'm not entirely sure what's going on in this picture, but the oddly shaped face on this deer reminds me of the Spirit of the Forest from Miyazaki's 'Princess Mononoke'.",
+    "color": "green",
+    "sleeves": "short",
+    "tag_array": ["animals", "moviestv"],
+    "archived": false
+  },
+  {
+    "id": 100250,
+    "title": "Gritty",
+    "image": "/images/shirt-gritty.jpg",
+    "description": "Gritty is a weird orange monster that the Philadelphia Flyers NHL team has chosen for their mascot. Believe it or not, this shirt is officially licensed.",
+    "color": "heather",
+    "sleeves": "short",
+    "tag_array": ["pennsylvania", "sports"],
+    "archived": false
+  },
+  {
+    "id": 100251,
+    "title": "Gulf of Mexico",
+    "image": "/images/shirt-gulfofmexico.jpg",
+    "description": "Yes, it's called the Gulf of Mexico. I don't care what you heard.",
+    "color": "olive",
+    "sleeves": "short",
+    "tag_array": ["geography", "politics"],
+    "archived": false
+  },
+  {
+    "id": 100252,
+    "title": "Habitat 67",
+    "image": "/images/shirt-habitat67.jpg",
+    "description": "Habitat 67 is an apartment complex that was designed for the 1967 Montreal Expo. It's one of the most beautiful buildings I've ever seen, and it's still occupied.",
+    "color": "darkblue",
+    "sleeves": "short",
+    "tag_array": ["canada", "architecture"],
+    "archived": false
+  },
+  {
+    "id": 100253,
+    "title": "Joshua Tree",
+    "image": "/images/shirt-joshuatreeblue.jpg",
+    "description": "Joshua Tree National Park is in the Southern California desert, near Palm Springs.",
+    "color": "blue",
+    "sleeves": "short",
+    "tag_array": ["california", "nationalparks"],
+    "archived": false
+  },
+  {
+    "id": 100254,
+    "title": "Lego Space",
+    "image": "/images/shirt-legospace.jpg",
+    "description": "This is the logo of the original Lego space theme, which was populer from the late 70s to the mid 80s.",
+    "color": "white",
+    "sleeves": "short",
+    "tag_array": ["brands"],
+    "archived": false
+  },
+  {
+    "id": 100255,
+    "title": "Mer de Glace",
+    "image": "/images/shirt-merdeglace.jpg",
+    "description": "The Mer de Glace is a glacier on the slopes on Mont Blanc in the French Alps. There's an incredible ice cave there.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["france", "geography"],
+    "archived": false
+  },
+  {
+    "id": 100256,
+    "title": "Native Totem",
+    "image": "/images/shirt-nativetotem.jpg",
+    "description": "I love Pacific Coast Native American art. This design, showing a combination of four clan totems, is from a Tsimshian artist. This shirt was purchased at the Royal Museum in British Columbia.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["nativeamerican", "pacificnorthwest"],
+    "archived": false
+  },
+  {
+    "id": 100257,
+    "title": "NextJS Conf",
+    "image": "/images/shirt-nextjsconf.jpg",
+    "description": "I've never been to a Vercel or NextJS conference, but I won this shirt in a quiz during a training event Vercel hosted at my work.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["schwablife", "computers"],
+    "archived": false
+  },
+  {
+    "id": 100258,
+    "title": "NYC Subway Map",
+    "image": "/images/shirt-nycsubwaymap.jpg",
+    "description": "This unique shirt shows a portion of the modern NYC subway system map. Officially licensed merch purchased at the Transit Museum in Brooklyn.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["newyork", "geography", "transportation"],
+    "archived": false
+  },
+  {
+    "id": 100259,
+    "title": "Olympic National Park",
+    "image": "/images/shirt-olympicgreen.jpg",
+    "description": "Nice old-style logo for Olympic National Park in Washington, one of America's greatest",
+    "color": "green",
+    "sleeves": "short",
+    "tag_array": ["nationalparks", "washington"],
+    "archived": false
+  },
+  {
+    "id": 100260,
+    "title": "Squirrel",
+    "image": "/images/shirt-quebecsquirrel.jpg",
+    "description": "Normally, my fashion consultant doesn't allow me to buy red shirts. But she was willing to make an exception for this squirrel shirt I found in Quebec City.",
+    "color": "red",
+    "sleeves": "short",
+    "tag_array": ["animals"],
+    "archived": false
+  },
+  {
+    "id": 100261,
+    "title": "",
+    "image": "/images/shirt-spidermanone.jpg",
+    "description": "The famous cover of Spider-Man issue one, the series started by groundbreaking artist Todd McFarlane.",
+    "color": "heather",
+    "sleeves": "short",
+    "tag_array": ["moviestv"],
+    "archived": false
+  },
+  {
+    "id": 100262,
+    "title": "Tillamook Pepper Jack",
+    "image": "/images/shirt-tillamookpepperjack.jpg",
+    "description": "Tillamook Dairy is a prominent feature of the Oregon Coast, and their yogurts and cheeses are delicious.",
+    "color": "green",
+    "sleeves": "short",
+    "tag_array": ["oregon", "pacificnorthwest", "brands", "food"],
+    "archived": false
+  },
+  {
+    "id": 100263,
+    "title": "Timberline Lodge",
+    "image": "/images/shirt-timberlinesnocat.jpg",
+    "description": "Timberline Lodge is an iconic hotel on the slopes of Mt Hood in Oregon. It was famously the filming location for parts of 'The Shining'. The lodge's sno-cat is one of the oldest I've seen.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["oregon", "pacificnorthwest", "transportation"],
+    "archived": false
+  },
+  {
+    "id": 100264,
+    "title": "Whiz Wit",
+    "image": "/images/shirt-whizwit.jpg",
+    "description": "If you want to sound cool when you're ordering a Philly cheesesteak, this is what you ask for. It means to use Cheez Whiz instead of provolone, and to add grilled onions.",
+    "color": "green",
+    "sleeves": "short",
+    "tag_array": ["pennsylvania", "food", "parody"],
+    "archived": false
+  },
+  {
+    "id": 100265,
+    "title": "Zermatt",
+    "image": "/images/shirt-zermattred.jpg",
+    "description": "Zermatt is an extremely exclusive and expensive ski town in the shadow of the Matterhorn in the Swiss Alps.",
+    "color": "red",
+    "sleeves": "short",
+    "tag_array": ["switzerland"],
     "archived": false
   }
 ]
