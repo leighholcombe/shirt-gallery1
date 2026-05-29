@@ -2648,5 +2648,205 @@
     "sleeves": "short",
     "tag_array": ["switzerland"],
     "archived": false
+  },
+  {
+    "id": 100266,
+    "title": "Big Choice",
+    "image": "/images/shirt-bigchoice.jpg",
+    "description": "Big Choice is a brewery owned by some of my friends in Colorado. They have kind of a skateboard/metal vibe, which is why this graphic has clear Pushead and Dogtown influences.",
+    "color": "blue",
+    "sleeves": "short",
+    "tag_array": ["colorado", "food", "surfskate"],
+    "archived": false
+  },
+  {
+    "id": 100267,
+    "title": "Couch Surfin'",
+    "image": "/images/shirt-couchsurfin.jpg",
+    "description": "'Couch Surfin' was the name of a pandemic-era YouTube series that The Surfrajettes did when they were unable to play live. The two guitarists would sit on the couch, wearing their go-go boots and playing surf guitar. Very inspirational to me.",
+    "color": "darkblue",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": false
+  },
+  {
+    "id": 100268,
+    "title": "Grand Canyon",
+    "image": "/images/shirt-grandcanyonbrown.jpg",
+    "description": "The Grand Canyon of Arizona must be seen to be believed. And even then, you might not totally believe it.",
+    "color": "brown",
+    "sleeves": "short",
+    "tag_array": ["nationalparks", "arizona"],
+    "archived": false
+  },
+  {
+    "id": 100269,
+    "title": "Jungfrau Heartbeat",
+    "image": "/images/shirt-jungfrau.jpg",
+    "description": "The three peaks of the Jungfraujoch -- Eiger, Mönch, and Jungfrau -- are kinda like an EKG wave.",
+    "color": "darkblue",
+    "sleeves": "short",
+    "tag_array": ["switzerland", "geography"],
+    "archived": false
+  },
+  {
+    "id": 100270,
+    "title": "Hurricane Ridge",
+    "image": "/images/shirt-hurricaneridge.jpg",
+    "description": "Hurricane Ridge is one of the main districts of Olympic National Park in Washington. It's where the visitor's center is, and gets the most traffic. But if your visit ends there, you're missing half the park.",
+    "color": "darkblue",
+    "sleeves": "short",
+    "tag_array": ["nationalparks", "washington"],
+    "archived": false
+  },
+  {
+    "id": 100271,
+    "title": "Juliana Hatfield",
+    "image": "/images/shirt-julianahatfield.jpg",
+    "description": "In 2025, Juliana Hatfield toured with her original band, playing the entire album 'Become What You Are', a pivotal record for me. This is the tour shirt.",
+    "color": "gray",
+    "sleeves": "short",
+    "tag_array": ["music", "bands"],
+    "archived": false
+  },
+  {
+    "id": 100272,
+    "title": "Juneau Boats",
+    "image": "/images/shirt-juneauboats.jpg",
+    "description": "I kinda fell in love with Juneau when I visited in 2025. It has a very active waterfront, and this ink-style graphic represents it nicely.",
+    "color": "gray",
+    "sleeves": "short",
+    "tag_array": ["alaska", "transportation", "indyartists"],
+    "archived": false
+  },
+  {
+    "id": 100273,
+    "title": "Jarritos Mandarina",
+    "image": "/images/shirt-mandarina.jpg",
+    "description": "There's a certain type of person who thinks this shirt is really cool. And I dig that person.",
+    "color": "orange",
+    "sleeves": "short",
+    "tag_array": ["food", "brands"],
+    "archived": false
+  },
+  {
+    "id": 100274,
+    "title": "Montreal Metro",
+    "image": "/images/shirt-montrealmetro.jpg",
+    "description": "I really enjoyed riding the rails of the Montral Metro during my visit. It's a comfortable and functional train system.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["canada", "transportation", "geography"],
+    "archived": false
+  },
+  {
+    "id": 100275,
+    "title": "MTA Line 6",
+    "image": "/images/shirt-mta6.jpg",
+    "description": "There are officially licensed shirts for almost all of the rail routes in the MTA system, but I chose the 6 because I rode it by myself all the way to the Bronx at night to look at Yankee Stadium for five minutes.",
+    "color": "black",
+    "sleeves": "short",
+    "tag_array": ["newyork", "transportation"],
+    "archived": false
+  },
+  {
+    "id": 100276,
+    "title": "Nevada 1864",
+    "image": "/images/shirt-nevada1864.jpg",
+    "description": "Nevada joined the Union in 1864, toward the end of the Civil War. I got this shirt at the Great Basin park store because I was so impressed with the ruggedness of the northern part of the state.",
+    "color": "purple",
+    "sleeves": "short",
+    "tag_array": ["nevada"],
+    "archived": false
+  },
+  {
+    "id": 100277,
+    "title": "Owl Deer",
+    "image": "/images/shirt-owldeer.jpg",
+    "description": "For some reason, this design of an owl with antlers spoke to me. Found at an artist's market in Portland, OR.",
+    "color": "darkblue",
+    "sleeves": "short",
+    "tag_array": ["oregon", "pacificnorthwest", "indyartists"],
+    "archived": false
+  },
+  {
+    "id": 100278,
+    "title": "Pacific Wonderland",
+    "image": "/images/shirt-pacificwonderland.jpg",
+    "description": "The mountains and the trees are why I keep going back to Oregon, year after year.",
+    "color": "darkblue",
+    "sleeves": "short",
+    "tag_array": ["oregon", "pacificnorthwest"],
+    "archived": false
+  },
+  {
+    "id": 100279,
+    "title": "Redwoods NP",
+    "image": "/images/shirt-redwoodgreen.jpg",
+    "description": "Redwoods National and State Parks are in Northern California, and I can't wait to go back.",
+    "color": "green",
+    "sleeves": "short",
+    "tag_array": ["nationalparks", "stateparks", "california", "pacificnorthwest"],
+    "archived": false
+  },
+  {
+    "id": 100280,
+    "title": "Rock and Roller Palace",
+    "image": "/images/shirt-rollerpalace.jpg",
+    "description": "The first full-length Surfrajettes album was called 'Roller Fink', and it had a retro roller rink vibe, which is reflected in this design.",
+    "color": "red",
+    "sleeves": "short",
+    "tag_array": ["music", "bands", "canada"],
+    "archived": false
+  },
+  {
+    "id": 100281,
+    "title": "Great Sand Dunes",
+    "image": "/images/shirt-sanddunes.jpg",
+    "description": "That's a big pile of sand. Great Sand Dunes National Park is in Colorado.",
+    "color": "olive",
+    "sleeves": "short",
+    "tag_array": ["nationalparks", "colorado"],
+    "archived": false
+  },
+  {
+    "id": 100282,
+    "title": "Slumberland Records",
+    "image": "/images/shirt-slumberland.jpg",
+    "description": "Slumberland is an indie and dream pop record label.",
+    "color": "teal",
+    "sleeves": "short",
+    "tag_array": ["music", "brands"],
+    "archived": false
+  },
+  {
+    "id": 100283,
+    "title": "Terror from the Deep",
+    "image": "/images/shirt-squid.jpg",
+    "description": "A cartoon squid menacing a serious sketch of a tall-masted ship. What's not to like?",
+    "color": "heather",
+    "sleeves": "short",
+    "tag_array": ["animals", "indyartists"],
+    "archived": false
+  },
+  {
+    "id": 100284,
+    "title": "Tsunami Hazard Zone",
+    "image": "/images/shirt-tsunamihazard.jpg",
+    "description": "Highway 101 along the Oregon Coast is filled with signs about the tsunami hazard zone, which exists below a certain elevation. This shirt supposes that maybe that just means good surfing conditions.",
+    "color": "blue",
+    "sleeves": "short",
+    "tag_array": ["oregon", "pacificnorthwest", "surfskate"],
+    "archived": false
+  },
+  {
+    "id": 100285,
+    "title": "White Sands NP",
+    "image": "/images/shirt-whitesandsnp.jpg",
+    "description": "You have to travel pretty far out into the dunes to spot a lizard at White Sands. Totally worth it.",
+    "color": "heather",
+    "sleeves": "short",
+    "tag_array": ["newmexico", "nationalparks"],
+    "archived": false
   }
 ]
