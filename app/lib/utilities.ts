@@ -7,3 +7,24 @@ export function shuffle(array:any) {
   }
   return array;
 }
+
+export function generateCountArray(array:any) {
+  const countArray = array.map((item: any) => ({
+    ...item,
+    count: 0
+  }));
+  return countArray;
+}
+
+export function doTheCounting(counter: any, countable: any, countField: string) {
+  countable.forEach((item: any) => {
+    item[countField].forEach((member: any) => {
+      counter.forEach((element: any) => {
+        if(element.value == member) {
+          element.count++;
+        }
+      });
+    });
+  });
+  return counter;
+}
