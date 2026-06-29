@@ -28,7 +28,7 @@ export default async function Page( {params}:any ) {
       <div>
         <div className="flex flex-col items-center">
           <h2 className="text-2xl mb-3">{item.title}</h2>
-          <div className="relative h-[60vh] w-3xl mb-3">
+          <div className="relative aspect-square w-3xl max-w-full mb-3">
             <Image
               src={item.image}
               fill={true}

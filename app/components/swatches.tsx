@@ -11,8 +11,8 @@ export default async function Swatches(props: PageProps<any>) {
 
   return (
     <div>
-      <h2>Filter by color:</h2>
-      <div className="flex gap-3 items-center h-14">
+      <h2 className="mb-2">Filter by color:</h2>
+      <div className="flex gap-3 items-center flex-wrap">
         {colors.map((swatch) => {
           if(swatch.value == color) {
             return (

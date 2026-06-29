@@ -16,7 +16,7 @@ export default function RootLayout({
       <body
         className="antialiased font-sans p-6"
       >
-        <h1 className="flex px-8 text-3xl">Leigh's Awesome Shirt Gallery</h1>
+        <h1 className="flex text-3xl">Leigh's Awesome Shirt Gallery</h1>
         {children}
       </body>
     </html>

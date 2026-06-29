@@ -8,7 +8,7 @@ import Link from 'next/link';
 export default function Home(pageProps:any) {
 
   return (
-    <div className="flex px-8">
+    <div className="flex max-w-full">
       <main className="pb-12">
         <section id="gallery" className="my-6">
           <Suspense>
