@@ -2848,5 +2848,15 @@
     "sleeves": "short",
     "tag_array": ["newmexico", "nationalparks"],
     "archived": false
+  },
+  {
+    "id": 100286,
+    "title": "Redwoods NP",
+    "image": "/images/shirt-redwoodblue.jpg",
+    "description": "Redwoods National and State Parks are in Northern California. I've been twice now, and raided all four gift shops.",
+    "color": "blue",
+    "sleeves": "short",
+    "tag_array": ["nationalparks", "stateparks", "california", "pacificnorthwest"],
+    "archived": false
   }
 ]
